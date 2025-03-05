@@ -15,6 +15,19 @@ Think of it like a library for games. Instead of books, we have game links and p
 
 ## Getting Started: Building Your Games Website
 
+We have 2 files to look at, a `games.md` to easily see games, and a `games.json` for those that are more technically minded
+
+### Access the Games List (games.json OR games.md)
+
+Our games list is stored in a file called `games.json`. You can find it in our GitHub repository: [Your GitHub Repo Link Here]
+
+This file contains information about each game, including:
+
+* **name:** The name of the game.
+* **game_url:** The link to play the game.
+* **game_image_icon:** The link to the game's icon (picture).
+* **game-id:** A unique identifier for the game.
+
 Here's how to build your own games website using our CDN:
 
 ### 1. Choose Your Website Platform
@@ -29,7 +42,7 @@ For this guide, we'll focus on using **Google Sites** because it's the simplest.
 
 ### 2. Access the Games List (games.json)
 
-Our games list is stored in a file called `games.json`. You can find it in our GitHub repository: [Your GitHub Repo Link Here]
+Our games list is stored in a file called `games.json` or `games.md`. You can find it in our GitHub repository: [Your GitHub Repo Link Here]
 
 This file contains information about each game, including:
 
@@ -65,17 +78,13 @@ The easiest way to put games on your website is by using iframes. An iframe is l
 
 Here's how to create an iframe for a game:
 
-1.  **Choose a Game:** Look at the `games.json` file and pick a game you want to add. For example, let's use "Bloxors".
+1.  **Choose a Game:** Look at the `games.json` or `games.md` file and pick a game you want to add. For example, let's use "Bloxors".
 2.  **Get the `game_url`:** Copy the `game_url` for "Bloxors": `https://hfmanor.com/bloxors`.
-3.  **Create the Iframe Code:** Use the following HTML code, replacing the `src` attribute with the `game_url`:
+3.  **Create the Iframe Code:** Use the following HTML iframe provided in `games.json` or `games.md`:
 
     ```html
-    <iframe src="[https://hfmanor.com/bloxors](https://hfmanor.com/bloxors)" width="800" height="600" frameborder="0" allowfullscreen></iframe>
+     <iframe width="1366" height="768" src="https://hfmanor.com/bloxors" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     ```
-
-    *   `width` and `height` control the size of the game window. You can adjust these values.
-    *   `frameborder="0"` removes the border around the iframe.
-    *   `allowfullscreen` lets the game be played in full-screen mode.
 
 **Adding the Iframe to Your Google Site:**
 
