@@ -1,0 +1,2312 @@
+[
+    {
+        "name": "Bloxors",
+        "game_url": "https://hfmanor.com/bloxors",
+        "game_image_icon": "https://games.mathpapers.org/bloxors/block.png",
+        "game-id": "bloxors"
+    },
+    {
+        "name": "Meme2048",
+        "game_url": "https://hfmanor.com/meme2048",
+        "game_image_icon": "https://games.mathpapers.org/meme2048/img/tron_guy.jpg",
+        "game-id": "meme2048"
+    },
+    {
+        "name": "Soundboard",
+        "game_url": "https://hfmanor.com/soundboard",
+        "game_image_icon": "https://games.mathpapers.org/soundboard/img/eye.png",
+        "game-id": "soundboard"
+    },
+    {
+        "name": "Edge Surf",
+        "game_url": "https://hfmanor.com/edge-surf",
+        "game_image_icon": "https://games.mathpapers.org/edge-surf/splash.png",
+        "game-id": "edge-surf"
+    },
+    {
+        "name": "Stick Duel Battle",
+        "game_url": "https://hfmanor.com/stick-duel-battle",
+        "game_image_icon": "https://games.mathpapers.org/stick-duel-battle/512x512.jpg",
+        "game-id": "stick-duel-battle"
+    },
+    {
+        "name": "Retro Bowl",
+        "game_url": "https://hfmanor.com/retro-bowl",
+        "game_image_icon": "https://games.mathpapers.org/retro-bowl/img/icon.jpg",
+        "game-id": "retro-bowl"
+    },
+    {
+        "name": "Snow Rider 3D",
+        "game_url": "https://hfmanor.com/Snow-Rider-3D",
+        "game_image_icon": "https://cdn.jsdelivr.net/gh/Vrkids2009/snowrider3d@6b7c2b9167b592528b221428414e63f06c4640b9/snow-rider-3d.png",
+        "game-id": "Snow Rider 3D"
+    },
+    {
+        "name": "Moto X3M Pool",
+        "game_url": "https://hfmanor.com/moto-X3M-pool",
+        "game_image_icon": "https://games.mathpapers.org/motox3m-pool/splash.jpg",
+        "game-id": "moto-X3M-pool"
+    },
+    {
+        "name": "Cookie Clicker",
+        "game_url": "https://hfmanor.com/cookie-clicker",
+        "game_image_icon": "https://games.mathpapers.org/cookie-clicker/cookie1.jpeg",
+        "game-id": "cookie-clicker"
+    },
+    {
+        "name": "10 Minutes Till Dawn",
+        "game_url": "https://hfmanor.com/10-minutes-till-dawn",
+        "game_image_icon": "https://games.mathpapers.org/10-minutes-till-dawn/splash.png",
+        "game-id": "10-minutes-till-dawn"
+    },
+    {
+        "name": "Fnaw",
+        "game_url": "https://hfmanor.com/fnaw",
+        "game_image_icon": "https://games.mathpapers.org/fnaw/splash.png",
+        "game-id": "fnaw"
+    },
+    {
+        "name": "HexGL",
+        "game_url": "https://hfmanor.com/HexGL",
+        "game_image_icon": "https://games.mathpapers.org/HexGL/icon_128.png",
+        "game-id": "HexGL"
+    },
+    {
+        "name": "Miniputt",
+        "game_url": "https://hfmanor.com/miniputt",
+        "game_image_icon": "https://games.mathpapers.org/miniputt/miniputt.png",
+        "game-id": "miniputt"
+    },
+    {
+        "name": "Riddleschool",
+        "game_url": "https://hfmanor.com/riddleschool",
+        "game_image_icon": "https://games.mathpapers.org/riddleschool/riddleschool.png",
+        "game-id": "riddleschool"
+    },
+    {
+        "name": "Bad Ice Cream 2",
+        "game_url": "https://hfmanor.com/bad-ice-cream-2",
+        "game_image_icon": "https://games.mathpapers.org/bad-ice-cream-2/bad-ice-cream-2.png",
+        "game-id": "bad-ice-cream-2"
+    },
+    {
+        "name": "Worlds Hardest Game 2",
+        "game_url": "https://hfmanor.com/worlds-hardest-game-2",
+        "game_image_icon": "https://games.mathpapers.org/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+        "game-id": "worlds-hardest-game-2"
+    },
+    {
+        "name": "Fairsquares",
+        "game_url": "https://hfmanor.com/fairsquares",
+        "game_image_icon": "https://games.mathpapers.org/fairsquares/index.icon.png",
+        "game-id": "fairsquares"
+    },
+    {
+        "name": "Sushi Unroll",
+        "game_url": "https://hfmanor.com/sushi-unroll",
+        "game_image_icon": "https://games.mathpapers.org/sushi-unroll/favicon.png",
+        "game-id": "sushi-unroll"
+    },
+    {
+        "name": "Cut The Rope Holiday",
+        "game_url": "https://hfmanor.com/Cut The Rope Holiday",
+        "game_image_icon": "https://games.mathpapers.org/ctr-holiday/Holiday_Gift.webp",
+        "game-id": "Cut The Rope Holiday"
+    },
+    {
+        "name": "Alienhominid",
+        "game_url": "https://hfmanor.com/alienhominid",
+        "game_image_icon": "https://games.mathpapers.org/alienhominid/alienhominid.jpg",
+        "game-id": "alienhominid"
+    },
+    {
+        "name": "Crossyroad",
+        "game_url": "https://hfmanor.com/crossyroad",
+        "game_image_icon": "https://games.mathpapers.org/crossyroad/crossyroad.png",
+        "game-id": "crossyroad"
+    },
+    {
+        "name": "Vex7",
+        "game_url": "https://hfmanor.com/vex7",
+        "game_image_icon": "https://games.mathpapers.org/vex7/assets/icon.png",
+        "game-id": "vex7"
+    },
+    {
+        "name": "Among Us",
+        "game_url": "https://hfmanor.com/among-us",
+        "game_image_icon": "https://games.mathpapers.org/among-us/red.png",
+        "game-id": "among-us"
+    },
+    {
+        "name": "Planetlife",
+        "game_url": "https://hfmanor.com/planetlife",
+        "game_image_icon": "https://games.mathpapers.org/planetlife/images/backgrounds/BG_AncientPlanet.png",
+        "game-id": "planetlife"
+    },
+    {
+        "name": "Dragon Vs Bricks",
+        "game_url": "https://hfmanor.com/dragon-vs-bricks",
+        "game_image_icon": "https://games.mathpapers.org/dragon-vs-bricks/splash.png",
+        "game-id": "dragon-vs-bricks"
+    },
+    {
+        "name": "Popcat Classic",
+        "game_url": "https://hfmanor.com/popcat-classic",
+        "game_image_icon": "https://games.mathpapers.org/popcat-classic/splash.png",
+        "game-id": "popcat-classic"
+    },
+    {
+        "name": "Tunnel Rush",
+        "game_url": "https://hfmanor.com/tunnel-rush",
+        "game_image_icon": "https://games.mathpapers.org/tunnel-rush/img/tunnel.jpg",
+        "game-id": "tunnel-rush"
+    },
+    {
+        "name": "Edgenotfound",
+        "game_url": "https://hfmanor.com/edgenotfound",
+        "game_image_icon": "https://games.mathpapers.org/edgenotfound/edge.png",
+        "game-id": "edgenotfound"
+    },
+    {
+        "name": "Dante",
+        "game_url": "https://hfmanor.com/dante",
+        "game_image_icon": "https://games.mathpapers.org/dante/splash.png",
+        "game-id": "dante"
+    },
+    {
+        "name": "2048",
+        "game_url": "https://hfmanor.com/2048",
+        "game_image_icon": "https://games.mathpapers.org/2048/2048.png",
+        "game-id": "2048"
+    },
+    {
+        "name": "Slope",
+        "game_url": "https://hfmanor.com/slope",
+        "game_image_icon": "https://games.mathpapers.org/slope/slope4.jpeg",
+        "game-id": "slope"
+    },
+    {
+        "name": "Waterworks",
+        "game_url": "https://hfmanor.com/waterworks",
+        "game_image_icon": "https://games.mathpapers.org/waterworks/square.png",
+        "game-id": "waterworks"
+    },
+    {
+        "name": "Hackertype",
+        "game_url": "https://hfmanor.com/hackertype",
+        "game_image_icon": "https://games.mathpapers.org/hackertype/logo192.png",
+        "game-id": "hackertype"
+    },
+    {
+        "name": "Sort The Court",
+        "game_url": "https://hfmanor.com/sort-the-court",
+        "game_image_icon": "https://games.mathpapers.org/sort-the-court/img/splash.png",
+        "game-id": "sort-the-court"
+    },
+    {
+        "name": "Vex6",
+        "game_url": "https://hfmanor.com/vex6",
+        "game_image_icon": "https://games.mathpapers.org/vex6/assets/icon.jpeg",
+        "game-id": "vex6"
+    },
+    {
+        "name": "Google Feud",
+        "game_url": "https://hfmanor.com/google-feud",
+        "game_image_icon": "https://games.mathpapers.org/google-feud/splash.png",
+        "game-id": "google-feud"
+    },
+    {
+        "name": "Solitaire",
+        "game_url": "https://hfmanor.com/solitaire",
+        "game_image_icon": "https://games.mathpapers.org/solitaire/img/hover.jpg",
+        "game-id": "solitaire"
+    },
+    {
+        "name": "Draw The Hill",
+        "game_url": "https://hfmanor.com/draw-the-hill",
+        "game_image_icon": "https://games.mathpapers.org/draw-the-hill/icons/icon-512.png",
+        "game-id": "draw-the-hill"
+    },
+    {
+        "name": "Jetpack Joyride",
+        "game_url": "https://hfmanor.com/jetpack-joyride",
+        "game_image_icon": "https://games.mathpapers.org/jetpack-joyride/splash.jpg",
+        "game-id": "jetpack-joyride"
+    },
+    {
+        "name": "Sandboxels",
+        "game_url": "https://hfmanor.com/sandboxels",
+        "game_image_icon": "https://games.mathpapers.org/sandboxels/icons/favicon-32x32.png",
+        "game-id": "sandboxels"
+    },
+    {
+        "name": "Basketbros Io",
+        "game_url": "https://hfmanor.com/basketbros-io",
+        "game_image_icon": "https://games.mathpapers.org/basketbros-io/favicon.png",
+        "game-id": "basketbros-io"
+    },
+    {
+        "name": "Stickman Hook",
+        "game_url": "https://hfmanor.com/stickman-hook",
+        "game_image_icon": "https://games.mathpapers.org/stickman-hook/unnamed.jpg",
+        "game-id": "stickman-hook"
+    },
+    {
+        "name": "Bad Ice Cream 3",
+        "game_url": "https://hfmanor.com/bad-ice-cream-3",
+        "game_image_icon": "https://games.mathpapers.org/bad-ice-cream-3/bad-ice-cream-3.png",
+        "game-id": "bad-ice-cream-3"
+    },
+    {
+        "name": "Bloons Tower Defense",
+        "game_url": "https://hfmanor.com/Bloons Tower Defense",
+        "game_image_icon": "https://games.mathpapers.org/bloonstd/bloonstd.jpg",
+        "game-id": "Bloons Tower Defense"
+    },
+    {
+        "name": "Smokingbarrels",
+        "game_url": "https://hfmanor.com/smokingbarrels",
+        "game_image_icon": "https://games.mathpapers.org/smokingbarrels/smokingbarrels.jpg",
+        "game-id": "smokingbarrels"
+    },
+    {
+        "name": "Wallsmash",
+        "game_url": "https://hfmanor.com/wallsmash",
+        "game_image_icon": "https://games.mathpapers.org/wallsmash/thumb.png",
+        "game-id": "wallsmash"
+    },
+    {
+        "name": "Dogeminer2",
+        "game_url": "https://hfmanor.com/Dogeminer2",
+        "game_image_icon": "https://games.mathpapers.org/Dogeminer2/img/sprites/story.png",
+        "game-id": "Dogeminer2"
+    },
+    {
+        "name": "Checkers",
+        "game_url": "https://hfmanor.com/checkers",
+        "game_image_icon": "https://games.mathpapers.org/checkers/image.png",
+        "game-id": "checkers"
+    },
+    {
+        "name": "You Are Bezos",
+        "game_url": "https://hfmanor.com/you-are-bezos",
+        "game_image_icon": "https://games.mathpapers.org/you-are-bezos/img/banner.png",
+        "game-id": "you-are-bezos"
+    },
+    {
+        "name": "Soldier Legend",
+        "game_url": "https://hfmanor.com/soldier-legend",
+        "game_image_icon": "https://games.mathpapers.org/soldier-legend/images/splash.jpeg",
+        "game-id": "soldier-legend"
+    },
+    {
+        "name": "Ovo",
+        "game_url": "https://hfmanor.com/ovo",
+        "game_image_icon": "https://games.mathpapers.org/ovo/ovo.png",
+        "game-id": "ovo"
+    },
+    {
+        "name": "Geodash",
+        "game_url": "https://hfmanor.com/geodash",
+        "game_image_icon": "https://games.mathpapers.org/geodash/geoscratchicon.png",
+        "game-id": "geodash"
+    },
+    {
+        "name": "Idle Shark",
+        "game_url": "https://hfmanor.com/idle-shark",
+        "game_image_icon": "https://games.mathpapers.org/idle-shark/img/sharkgame.png",
+        "game-id": "idle-shark"
+    },
+    {
+        "name": "Papery Planes",
+        "game_url": "https://hfmanor.com/papery-planes",
+        "game_image_icon": "https://games.mathpapers.org/papery-planes/splash.jpg",
+        "game-id": "papery-planes"
+    },
+    {
+        "name": "Run 3",
+        "game_url": "https://hfmanor.com/run 3",
+        "game_image_icon": "https://games.mathpapers.org/run 3/image_proxy.jpg",
+        "game-id": "run 3"
+    },
+    {
+        "name": "Connect3",
+        "game_url": "https://hfmanor.com/connect3",
+        "game_image_icon": "https://games.mathpapers.org/connect3/favicon.png",
+        "game-id": "connect3"
+    },
+    {
+        "name": "Dumbwaystodie",
+        "game_url": "https://hfmanor.com/dumbwaystodie",
+        "game_image_icon": "https://games.mathpapers.org/dumbwaystodie/image.png",
+        "game-id": "dumbwaystodie"
+    },
+    {
+        "name": "Smash Karts",
+        "game_url": "https://hfmanor.com/Smash Karts",
+        "game_image_icon": "https://games.mathpapers.org/smashkarts/images/icon-512.png",
+        "game-id": "Smash Karts"
+    },
+    {
+        "name": "Volley Random",
+        "game_url": "https://hfmanor.com/volley-random",
+        "game_image_icon": "https://games.mathpapers.org/volley-random/splash.png",
+        "game-id": "volley-random"
+    },
+    {
+        "name": "Hexempire",
+        "game_url": "https://hfmanor.com/hexempire",
+        "game_image_icon": "https://games.mathpapers.org/hexempire/hexempire.jpg",
+        "game-id": "hexempire"
+    },
+    {
+        "name": "Stealingthediamond",
+        "game_url": "https://hfmanor.com/stealingthediamond",
+        "game_image_icon": "https://games.mathpapers.org/stealingthediamond/stealingthediamond.jpg",
+        "game-id": "stealingthediamond"
+    },
+    {
+        "name": "Adrenalinechallenge",
+        "game_url": "https://hfmanor.com/adrenalinechallenge",
+        "game_image_icon": "https://games.mathpapers.org/adrenalinechallenge/adrenalinechallenge.jpg",
+        "game-id": "adrenalinechallenge"
+    },
+    {
+        "name": "Madalin Stunt Cars 2",
+        "game_url": "https://hfmanor.com/madalin-stunt-cars-2",
+        "game_image_icon": "https://games.mathpapers.org/madalin-stunt-cars-2/img/logo.jpg",
+        "game-id": "madalin-stunt-cars-2"
+    },
+    {
+        "name": "Bloons Tower Defense 4",
+        "game_url": "https://hfmanor.com/Bloons Tower Defense 4",
+        "game_image_icon": "https://games.mathpapers.org/btd4/lib/bloontowerdefense4/1203.jpg",
+        "game-id": "Bloons Tower Defense 4"
+    },
+    {
+        "name": "Om Bounce",
+        "game_url": "https://hfmanor.com/om-bounce",
+        "game_image_icon": "https://games.mathpapers.org/om-bounce/assets/icon.jpeg",
+        "game-id": "om-bounce"
+    },
+    {
+        "name": "Kittencannon",
+        "game_url": "https://hfmanor.com/kittencannon",
+        "game_image_icon": "https://games.mathpapers.org/kittencannon/kittencannon.png",
+        "game-id": "kittencannon"
+    },
+    {
+        "name": "Cut The Rope TR",
+        "game_url": "https://hfmanor.com/Cut The Rope TR",
+        "game_image_icon": "https://games.mathpapers.org/ctr-tr/fb.png",
+        "game-id": "Cut The Rope TR"
+    },
+    {
+        "name": "Merge Round Racers",
+        "game_url": "https://hfmanor.com/merge-round-racers",
+        "game_image_icon": "https://games.mathpapers.org/merge-round-racers/splash.png",
+        "game-id": "merge-round-racers"
+    },
+    {
+        "name": "Flappy plane",
+        "game_url": "https://hfmanor.com/flappy plane",
+        "game_image_icon": "https://games.mathpapers.org/flappy plane/E3A4179E-B8E4-4358-BDAD-45AA7637D4D7.jpeg",
+        "game-id": "flappy plane"
+    },
+    {
+        "name": "Slime Rush Td",
+        "game_url": "https://hfmanor.com/slime-rush-td",
+        "game_image_icon": "https://games.mathpapers.org/slime-rush-td/splash.png",
+        "game-id": "slime-rush-td"
+    },
+    {
+        "name": "Ducklife3",
+        "game_url": "https://hfmanor.com/ducklife3",
+        "game_image_icon": "https://games.mathpapers.org/ducklife3/duck.png",
+        "game-id": "ducklife3"
+    },
+    {
+        "name": "Spacegarden",
+        "game_url": "https://hfmanor.com/spacegarden",
+        "game_image_icon": "https://games.mathpapers.org/spacegarden/spl.png",
+        "game-id": "spacegarden"
+    },
+    {
+        "name": "Astray",
+        "game_url": "https://hfmanor.com/astray",
+        "game_image_icon": "https://games.mathpapers.org/astray/ball.png",
+        "game-id": "astray"
+    },
+    {
+        "name": "Balldodge",
+        "game_url": "https://hfmanor.com/balldodge",
+        "game_image_icon": "https://games.mathpapers.org/balldodge/1D9A05FA-1D29-40D3-8DA3-F9A30AD7470E.jpeg",
+        "game-id": "balldodge"
+    },
+    {
+        "name": "Getaway Shootout",
+        "game_url": "https://hfmanor.com/getaway-shootout",
+        "game_image_icon": "https://games.mathpapers.org/getaway-shootout/img/images.jpg",
+        "game-id": "getaway-shootout"
+    },
+    {
+        "name": "Ducklife4",
+        "game_url": "https://hfmanor.com/ducklife4",
+        "game_image_icon": "https://games.mathpapers.org/ducklife4/splash.jpg",
+        "game-id": "ducklife4"
+    },
+    {
+        "name": "Run 2",
+        "game_url": "https://hfmanor.com/Run 2",
+        "game_image_icon": "https://games.mathpapers.org/Run 2/run-2-logo.jpg",
+        "game-id": "Run 2"
+    },
+    {
+        "name": "Moto X3M 2",
+        "game_url": "https://hfmanor.com/moto-X3M-2",
+        "game_image_icon": "https://games.mathpapers.org/motox3m2/assets/images/x1/bikes_texture.png",
+        "game-id": "moto-X3M-2"
+    },
+    {
+        "name": "Push The Square",
+        "game_url": "https://hfmanor.com/push-the-square",
+        "game_image_icon": "https://games.mathpapers.org/push-the-square/img/splash.png",
+        "game-id": "push-the-square"
+    },
+    {
+        "name": "Rolly Vortex",
+        "game_url": "https://hfmanor.com/rolly-vortex",
+        "game_image_icon": "https://games.mathpapers.org/rolly-vortex/icon-256.png",
+        "game-id": "rolly-vortex"
+    },
+    {
+        "name": "Tactical Weapon Pack 2",
+        "game_url": "https://hfmanor.com/tactical-weapon-pack-2",
+        "game_image_icon": "https://games.mathpapers.org/tactical-weapon-pack-2/pack.jpg",
+        "game-id": "tactical-weapon-pack-2"
+    },
+    {
+        "name": "Tiny Islands",
+        "game_url": "https://hfmanor.com/tiny-islands",
+        "game_image_icon": "https://games.mathpapers.org/tiny-islands/splash.png",
+        "game-id": "tiny-islands"
+    },
+    {
+        "name": "Pixel Gun Survival",
+        "game_url": "https://hfmanor.com/pixel-gun-survival",
+        "game_image_icon": "https://games.mathpapers.org/pixel-gun-survival/Build/Shooting.jpg",
+        "game-id": "pixel-gun-survival"
+    },
+    {
+        "name": "Blacholesquare",
+        "game_url": "https://hfmanor.com/blacholesquare",
+        "game_image_icon": "https://games.mathpapers.org/blacholesquare/icon.png",
+        "game-id": "blacholesquare"
+    },
+    {
+        "name": "Basketball Stars",
+        "game_url": "https://hfmanor.com/basketball-stars",
+        "game_image_icon": "https://games.mathpapers.org/basketball-stars/assets/images/basketball-stars.png",
+        "game-id": "basketball-stars"
+    },
+    {
+        "name": "Bloons Tower Defense 5",
+        "game_url": "https://hfmanor.com/Bloons Tower Defense 5",
+        "game_image_icon": "https://games.mathpapers.org/btd5/BT5_Deluxe_logo.png",
+        "game-id": "Bloons Tower Defense 5"
+    },
+    {
+        "name": "Moto X3M Spooky",
+        "game_url": "https://hfmanor.com/moto-X3M-spooky",
+        "game_image_icon": "https://games.mathpapers.org/motox3m-spooky/splash.jpeg",
+        "game-id": "moto-X3M-spooky"
+    },
+    {
+        "name": "Monster Tracks",
+        "game_url": "https://hfmanor.com/monster-tracks",
+        "game_image_icon": "https://games.mathpapers.org/monster-tracks/thumb.jpg",
+        "game-id": "monster-tracks"
+    },
+    {
+        "name": "Generic Fishing Game",
+        "game_url": "https://hfmanor.com/generic-fishing-game",
+        "game_image_icon": "https://games.mathpapers.org/generic-fishing-game/splash.png",
+        "game-id": "generic-fishing-game"
+    },
+    {
+        "name": "Chrome Dino",
+        "game_url": "https://hfmanor.com/chrome-dino",
+        "game_image_icon": "https://games.mathpapers.org/chrome-dino/icons/icon-32.png",
+        "game-id": "chrome-dino"
+    },
+    {
+        "name": "Madalin Stunt Cars 3",
+        "game_url": "https://hfmanor.com/madalin-stunt-cars-3",
+        "game_image_icon": "https://games.mathpapers.org/madalin-stunt-cars-3/img/index.jpg",
+        "game-id": "madalin-stunt-cars-3"
+    },
+    {
+        "name": "Hextris",
+        "game_url": "https://hfmanor.com/hextris",
+        "game_image_icon": "https://games.mathpapers.org/hextris/images/hextris-logo.png",
+        "game-id": "hextris"
+    },
+    {
+        "name": "Tank Trouble 2",
+        "game_url": "https://hfmanor.com/tank-trouble-2",
+        "game_image_icon": "https://games.mathpapers.org/tank-trouble-2/icon-256.png",
+        "game-id": "tank-trouble-2"
+    },
+    {
+        "name": "Bonkio",
+        "game_url": "https://hfmanor.com/bonkio",
+        "game_image_icon": "https://games.mathpapers.org/bonkio/image.png",
+        "game-id": "bonkio"
+    },
+    {
+        "name": "Noob Steve Parkour",
+        "game_url": "https://hfmanor.com/noob-steve-parkour",
+        "game_image_icon": "https://games.mathpapers.org/noob-steve-parkour/512x384.jpg",
+        "game-id": "noob-steve-parkour"
+    },
+    {
+        "name": "Defend The Tank",
+        "game_url": "https://hfmanor.com/defend-the-tank",
+        "game_image_icon": "https://games.mathpapers.org/defend-the-tank/branding/logo.png",
+        "game-id": "defend-the-tank"
+    },
+    {
+        "name": "Cluster Rush",
+        "game_url": "https://hfmanor.com/cluster-rush",
+        "game_image_icon": "https://games.mathpapers.org/cluster-rush/splash.png",
+        "game-id": "cluster-rush"
+    },
+    {
+        "name": "Tiny Fishing",
+        "game_url": "https://hfmanor.com/tiny-fishing",
+        "game_image_icon": "https://games.mathpapers.org/tiny-fishing/tiny-fishing.png",
+        "game-id": "tiny-fishing"
+    },
+    {
+        "name": "The Final Earth 2",
+        "game_url": "https://hfmanor.com/the-final-earth-2",
+        "game_image_icon": "https://games.mathpapers.org/the-final-earth-2/site-specific/coolmath/coolmath-splash.png",
+        "game-id": "the-final-earth-2"
+    },
+    {
+        "name": "Cut The Rope",
+        "game_url": "https://hfmanor.com/Cut The Rope",
+        "game_image_icon": "https://games.mathpapers.org/ctr/images/favicon.ico",
+        "game-id": "Cut The Rope"
+    },
+    {
+        "name": "Moto X3M",
+        "game_url": "https://hfmanor.com/moto-X3M",
+        "game_image_icon": "https://games.mathpapers.org/motox3m/splash.jpg",
+        "game-id": "moto-X3M"
+    },
+    {
+        "name": "Unfairmario",
+        "game_url": "https://hfmanor.com/unfairmario",
+        "game_image_icon": "https://games.mathpapers.org/unfairmario/sus.jpg",
+        "game-id": "unfairmario"
+    },
+    {
+        "name": "Circlo",
+        "game_url": "https://hfmanor.com/circlo",
+        "game_image_icon": "https://games.mathpapers.org/circlo/img/download.png",
+        "game-id": "circlo"
+    },
+    {
+        "name": "Kitchen Gun Game",
+        "game_url": "https://hfmanor.com/kitchen-gun-game",
+        "game_image_icon": "https://games.mathpapers.org/kitchen-gun-game/splash.png",
+        "game-id": "kitchen-gun-game"
+    },
+    {
+        "name": "Just Fall",
+        "game_url": "https://hfmanor.com/just-fall",
+        "game_image_icon": "https://games.mathpapers.org/just-fall/splash.jpg",
+        "game-id": "just-fall"
+    },
+    {
+        "name": "Matrixrampage",
+        "game_url": "https://hfmanor.com/matrixrampage",
+        "game_image_icon": "https://games.mathpapers.org/matrixrampage/matrixrampage.jpg",
+        "game-id": "matrixrampage"
+    },
+    {
+        "name": "Particle Clicker",
+        "game_url": "https://hfmanor.com/particle-clicker",
+        "game_image_icon": "https://games.mathpapers.org/particle-clicker/assets/icons/png/gluons@2x.png",
+        "game-id": "particle-clicker"
+    },
+    {
+        "name": "Runner",
+        "game_url": "https://hfmanor.com/runner",
+        "game_image_icon": "https://games.mathpapers.org/runner/loading3860.png",
+        "game-id": "runner"
+    },
+    {
+        "name": "Level13",
+        "game_url": "https://hfmanor.com/level13",
+        "game_image_icon": "https://games.mathpapers.org/level13/img/ui-level-ground-dark.png",
+        "game-id": "level13"
+    },
+    {
+        "name": "Tv Static",
+        "game_url": "https://hfmanor.com/tv-static",
+        "game_image_icon": "https://games.mathpapers.org/tv-static/static.png",
+        "game-id": "tv-static"
+    },
+    {
+        "name": "Synesthesia",
+        "game_url": "https://hfmanor.com/synesthesia",
+        "game_image_icon": "https://games.mathpapers.org/synesthesia/index.splash.png",
+        "game-id": "synesthesia"
+    },
+    {
+        "name": "OfflineParadise",
+        "game_url": "https://hfmanor.com/OfflineParadise",
+        "game_image_icon": "https://games.mathpapers.org/OfflineParadise/assets/icon.jpeg",
+        "game-id": "OfflineParadise"
+    },
+    {
+        "name": "Backrooms 2d",
+        "game_url": "https://hfmanor.com/backrooms-2d",
+        "game_image_icon": "https://games.mathpapers.org/backrooms-2d/splash.png",
+        "game-id": "backrooms-2d"
+    },
+    {
+        "name": "Idle Breakout",
+        "game_url": "https://hfmanor.com/idle-breakout",
+        "game_image_icon": "https://games.mathpapers.org/idle-breakout/assets/Coding_BreakOut1_texture_0.png",
+        "game-id": "idle-breakout"
+    },
+    {
+        "name": "Theheist",
+        "game_url": "https://hfmanor.com/theheist",
+        "game_image_icon": "https://games.mathpapers.org/theheist/theheist.jpg",
+        "game-id": "theheist"
+    },
+    {
+        "name": "Zombs Royale",
+        "game_url": "https://hfmanor.com/zombs-royale",
+        "game_image_icon": "https://games.mathpapers.org/zombs-royale/zomb.png",
+        "game-id": "zombs-royale"
+    },
+    {
+        "name": "Sm64",
+        "game_url": "https://hfmanor.com/sm64",
+        "game_image_icon": "https://games.mathpapers.org/sm64/logo.png",
+        "game-id": "sm64"
+    },
+    {
+        "name": "Minesweeper",
+        "game_url": "https://hfmanor.com/minesweeper",
+        "game_image_icon": "https://games.mathpapers.org/minesweeper/img/minesweeper.png",
+        "game-id": "minesweeper"
+    },
+    {
+        "name": "Earntodie",
+        "game_url": "https://hfmanor.com/earntodie",
+        "game_image_icon": "https://games.mathpapers.org/earntodie/loading.png",
+        "game-id": "earntodie"
+    },
+    {
+        "name": "Doctor Acorn2",
+        "game_url": "https://hfmanor.com/doctor-acorn2",
+        "game_image_icon": "https://games.mathpapers.org/doctor-acorn2/images/splashlogo-sheet0.png",
+        "game-id": "doctor-acorn2"
+    },
+    {
+        "name": "Hardware Tycoon",
+        "game_url": "https://hfmanor.com/hardware-tycoon",
+        "game_image_icon": "https://games.mathpapers.org/hardware-tycoon/icon-256.png",
+        "game-id": "hardware-tycoon"
+    },
+    {
+        "name": "Rabbit Samurai2",
+        "game_url": "https://hfmanor.com/rabbit-samurai2",
+        "game_image_icon": "https://games.mathpapers.org/rabbit-samurai2/images/smokesplash.png",
+        "game-id": "rabbit-samurai2"
+    },
+    {
+        "name": "Subway Surfers",
+        "game_url": "https://hfmanor.com/subway-surfers",
+        "game_image_icon": "https://games.mathpapers.org/subway-surfers/img/splash.jpg",
+        "game-id": "subway-surfers"
+    },
+    {
+        "name": "Thebattle",
+        "game_url": "https://hfmanor.com/thebattle",
+        "game_image_icon": "https://games.mathpapers.org/thebattle/thebattle.png",
+        "game-id": "thebattle"
+    },
+    {
+        "name": "Slitherio",
+        "game_url": "https://hfmanor.com/slitherio",
+        "game_image_icon": "https://games.mathpapers.org/slitherio/7EDEF379-07A2-4604-B552-C0A3DB2D70BE.jpeg",
+        "game-id": "slitherio"
+    },
+    {
+        "name": "Rolling Forests",
+        "game_url": "https://hfmanor.com/rolling-forests",
+        "game_image_icon": "https://games.mathpapers.org/rolling-forests/icon.png",
+        "game-id": "rolling-forests"
+    },
+    {
+        "name": "Exo",
+        "game_url": "https://hfmanor.com/exo",
+        "game_image_icon": "https://games.mathpapers.org/exo/img/small.jpg",
+        "game-id": "exo"
+    },
+    {
+        "name": "Marvinspectrum",
+        "game_url": "https://hfmanor.com/marvinspectrum",
+        "game_image_icon": "https://games.mathpapers.org/marvinspectrum/marvinspectrum.png",
+        "game-id": "marvinspectrum"
+    },
+    {
+        "name": "Endlesswar3",
+        "game_url": "https://hfmanor.com/endlesswar3",
+        "game_image_icon": "https://games.mathpapers.org/endlesswar3/endlesswar3.png",
+        "game-id": "endlesswar3"
+    },
+    {
+        "name": "Push Your Luck",
+        "game_url": "https://hfmanor.com/push-your-luck",
+        "game_image_icon": "https://games.mathpapers.org/push-your-luck/assets/atlas/Bg.png",
+        "game-id": "push-your-luck"
+    },
+    {
+        "name": "Deal Or No Deal",
+        "game_url": "https://hfmanor.com/deal-or-no-deal",
+        "game_image_icon": "https://games.mathpapers.org/deal-or-no-deal/index.jpg",
+        "game-id": "deal-or-no-deal"
+    },
+    {
+        "name": "Frying Nemo",
+        "game_url": "https://hfmanor.com/frying-nemo",
+        "game_image_icon": "https://games.mathpapers.org/frying-nemo/splash.png",
+        "game-id": "frying-nemo"
+    },
+    {
+        "name": "The Hotel",
+        "game_url": "https://hfmanor.com/the-hotel",
+        "game_image_icon": "https://games.mathpapers.org/the-hotel/splash.png",
+        "game-id": "the-hotel"
+    },
+    {
+        "name": "Santy Is Home",
+        "game_url": "https://hfmanor.com/santy-is-home",
+        "game_image_icon": "https://games.mathpapers.org/santy-is-home/splash.png",
+        "game-id": "santy-is-home"
+    },
+    {
+        "name": "Twitch Tetris",
+        "game_url": "https://hfmanor.com/twitch-tetris",
+        "game_image_icon": "https://games.mathpapers.org/twitch-tetris/media/buttons/restart.png",
+        "game-id": "twitch-tetris"
+    },
+    {
+        "name": "Tanuki Sunset",
+        "game_url": "https://hfmanor.com/tanuki-sunset",
+        "game_image_icon": "https://games.mathpapers.org/tanuki-sunset/img/cover.png",
+        "game-id": "tanuki-sunset"
+    },
+    {
+        "name": "Bitlife",
+        "game_url": "https://hfmanor.com/bitlife",
+        "game_image_icon": "https://games.mathpapers.org/bitlife/splash.png",
+        "game-id": "bitlife"
+    },
+    {
+        "name": "Hungry Lamu",
+        "game_url": "https://hfmanor.com/hungry-lamu",
+        "game_image_icon": "https://games.mathpapers.org/hungry-lamu/splash.png",
+        "game-id": "hungry-lamu"
+    },
+    {
+        "name": "Stick Merge",
+        "game_url": "https://hfmanor.com/stick-merge",
+        "game_image_icon": "https://games.mathpapers.org/stick-merge/splash.png",
+        "game-id": "stick-merge"
+    },
+    {
+        "name": "Flappy 2048",
+        "game_url": "https://hfmanor.com/flappy-2048",
+        "game_image_icon": "https://games.mathpapers.org/flappy-2048/meta/apple-touch-icon.png",
+        "game-id": "flappy-2048"
+    },
+    {
+        "name": "Bloons Tower Defense 2",
+        "game_url": "https://hfmanor.com/Bloons Tower Defense 2",
+        "game_image_icon": "https://games.mathpapers.org/bloonstd2/bloonstd2.png",
+        "game-id": "Bloons Tower Defense 2"
+    },
+    {
+        "name": "Helicopter",
+        "game_url": "https://hfmanor.com/helicopter",
+        "game_image_icon": "https://games.mathpapers.org/helicopter/helicopter.png",
+        "game-id": "helicopter"
+    },
+    {
+        "name": "Factoryballs",
+        "game_url": "https://hfmanor.com/factoryballs",
+        "game_image_icon": "https://games.mathpapers.org/factoryballs/images/splash.png",
+        "game-id": "factoryballs"
+    },
+    {
+        "name": "Go Ball",
+        "game_url": "https://hfmanor.com/go-ball",
+        "game_image_icon": "https://games.mathpapers.org/go-ball/game.jpg",
+        "game-id": "go-ball"
+    },
+    {
+        "name": "Goodnight",
+        "game_url": "https://hfmanor.com/goodnight",
+        "game_image_icon": "https://games.mathpapers.org/goodnight/img/cutscene-dreamer-mouth.gif",
+        "game-id": "goodnight"
+    },
+    {
+        "name": "Rocket League",
+        "game_url": "https://hfmanor.com/Rocket-League",
+        "game_image_icon": "https://games.mathpapers.org/Rocket-League/splash.png",
+        "game-id": "Rocket-League"
+    },
+    {
+        "name": "Doge2048",
+        "game_url": "https://hfmanor.com/doge2048",
+        "game_image_icon": "https://games.mathpapers.org/doge2048/img/212/doge-gradient-212.gif",
+        "game-id": "doge2048"
+    },
+    {
+        "name": "Flashtetris",
+        "game_url": "https://hfmanor.com/flashtetris",
+        "game_image_icon": "https://games.mathpapers.org/flashtetris/flashtetris.png",
+        "game-id": "flashtetris"
+    },
+    {
+        "name": "Btts",
+        "game_url": "https://hfmanor.com/btts",
+        "game_image_icon": "https://games.mathpapers.org/btts/images/splash_particles.png",
+        "game-id": "btts"
+    },
+    {
+        "name": "Knife Master",
+        "game_url": "https://hfmanor.com/knife-master",
+        "game_image_icon": "https://games.mathpapers.org/knife-master/icons/icon-512.png",
+        "game-id": "knife-master"
+    },
+    {
+        "name": "Swerve",
+        "game_url": "https://hfmanor.com/swerve",
+        "game_image_icon": "https://games.mathpapers.org/swerve/img/favicon.jpg",
+        "game-id": "swerve"
+    },
+    {
+        "name": "Snowbattle",
+        "game_url": "https://hfmanor.com/snowbattle",
+        "game_image_icon": "https://games.mathpapers.org/snowbattle/img/logo.png",
+        "game-id": "snowbattle"
+    },
+    {
+        "name": "Grindcraft",
+        "game_url": "https://hfmanor.com/grindcraft",
+        "game_image_icon": "https://games.mathpapers.org/grindcraft/img/splash.png",
+        "game-id": "grindcraft"
+    },
+    {
+        "name": "1",
+        "game_url": "https://hfmanor.com/1",
+        "game_image_icon": "https://games.mathpapers.org/1/meta/og_image.png",
+        "game-id": "1"
+    },
+    {
+        "name": "Wolf2d",
+        "game_url": "https://hfmanor.com/wolf2d",
+        "game_image_icon": "https://games.mathpapers.org/wolf2d/icons/[icon-512].png",
+        "game-id": "wolf2d"
+    },
+    {
+        "name": "DOOMORI",
+        "game_url": "https://hfmanor.com/DOOMORI",
+        "game_image_icon": "https://games.mathpapers.org/DOOMORI/splash.png",
+        "game-id": "DOOMORI"
+    },
+    {
+        "name": "Ninjavsevilcorp",
+        "game_url": "https://hfmanor.com/ninjavsevilcorp",
+        "game_image_icon": "https://games.mathpapers.org/ninjavsevilcorp/splash.png",
+        "game-id": "ninjavsevilcorp"
+    },
+    {
+        "name": "Handshakes",
+        "game_url": "https://hfmanor.com/handshakes",
+        "game_image_icon": "https://games.mathpapers.org/handshakes/splash.jpg",
+        "game-id": "handshakes"
+    },
+    {
+        "name": "Fancypantsadventures",
+        "game_url": "https://hfmanor.com/fancypantsadventures",
+        "game_image_icon": "https://games.mathpapers.org/fancypantsadventures/fancypantsadventure.png",
+        "game-id": "fancypantsadventures"
+    },
+    {
+        "name": "Doodle Jump",
+        "game_url": "https://hfmanor.com/doodle-jump",
+        "game_image_icon": "https://games.mathpapers.org/doodle-jump/doodle.png",
+        "game-id": "doodle-jump"
+    },
+    {
+        "name": "Fireboywatergirlforesttemple",
+        "game_url": "https://hfmanor.com/fireboywatergirlforesttemple",
+        "game_image_icon": "https://games.mathpapers.org/fireboywatergirlforesttemple/cdn.fbrq/@azerion/splash/assets/images/branding_logo_kizi.png",
+        "game-id": "fireboywatergirlforesttemple"
+    },
+    {
+        "name": "Interactivebuddy",
+        "game_url": "https://hfmanor.com/interactivebuddy",
+        "game_image_icon": "https://games.mathpapers.org/interactivebuddy/interactivebuddy.jpg",
+        "game-id": "interactivebuddy"
+    },
+    {
+        "name": "Doom",
+        "game_url": "https://hfmanor.com/doom",
+        "game_image_icon": "https://games.mathpapers.org/doom/0B894474-D070-4E9C-B1C1-6908E344DA28.jpeg",
+        "game-id": "doom"
+    },
+    {
+        "name": "Monkey Mart",
+        "game_url": "https://hfmanor.com/Monkey Mart",
+        "game_image_icon": "https://games.mathpapers.org/MonkeyMart/bg_loading.png",
+        "game-id": "Monkey Mart"
+    },
+    {
+        "name": "Deepest Sword",
+        "game_url": "https://hfmanor.com/deepest-sword",
+        "game_image_icon": "https://games.mathpapers.org/deepest-sword/splash.jpg",
+        "game-id": "deepest-sword"
+    },
+    {
+        "name": "Shotinthedark",
+        "game_url": "https://hfmanor.com/shotinthedark",
+        "game_image_icon": "https://games.mathpapers.org/shotinthedark/shot.png",
+        "game-id": "shotinthedark"
+    },
+    {
+        "name": "Stack Bump 3d",
+        "game_url": "https://hfmanor.com/stack-bump-3d",
+        "game_image_icon": "https://games.mathpapers.org/stack-bump-3d/TemplateData56/gears.gif",
+        "game-id": "stack-bump-3d"
+    },
+    {
+        "name": "Learntofly2",
+        "game_url": "https://hfmanor.com/learntofly2",
+        "game_image_icon": "https://games.mathpapers.org/learntofly2/learn-to-fly-2.jpg",
+        "game-id": "learntofly2"
+    },
+    {
+        "name": "Zigzag",
+        "game_url": "https://hfmanor.com/zigzag",
+        "game_image_icon": "https://games.mathpapers.org/zigzag/4EEE71BF-A06E-478D-B1E0-F67600291BDC.jpeg",
+        "game-id": "zigzag"
+    },
+    {
+        "name": "Death Run 3d",
+        "game_url": "https://hfmanor.com/death-run-3d",
+        "game_image_icon": "https://games.mathpapers.org/death-run-3d/img/death.png",
+        "game-id": "death-run-3d"
+    },
+    {
+        "name": "Iceagebaby",
+        "game_url": "https://hfmanor.com/iceagebaby",
+        "game_image_icon": "https://games.mathpapers.org/iceagebaby/thumb.png",
+        "game-id": "iceagebaby"
+    },
+    {
+        "name": "Rabbit Samurai",
+        "game_url": "https://hfmanor.com/rabbit-samurai",
+        "game_image_icon": "https://games.mathpapers.org/rabbit-samurai/images/smokesplash.png",
+        "game-id": "rabbit-samurai"
+    },
+    {
+        "name": "Duke Nukem 2",
+        "game_url": "https://hfmanor.com/duke-nukem-2",
+        "game_image_icon": "https://games.mathpapers.org/duke-nukem-2/splash.jpg",
+        "game-id": "duke-nukem-2"
+    },
+    {
+        "name": "Space Company",
+        "game_url": "https://hfmanor.com/space-company",
+        "game_image_icon": "https://games.mathpapers.org/space-company/Icons/moonIcon.png",
+        "game-id": "space-company"
+    },
+    {
+        "name": "Sky Car Stunt",
+        "game_url": "https://hfmanor.com/sky-car-stunt",
+        "game_image_icon": "https://games.mathpapers.org/sky-car-stunt/Template/logo.png",
+        "game-id": "sky-car-stunt"
+    },
+    {
+        "name": "Ninja",
+        "game_url": "https://hfmanor.com/ninja",
+        "game_image_icon": "https://games.mathpapers.org/ninja/square.png",
+        "game-id": "ninja"
+    },
+    {
+        "name": "Amidst The Clouds",
+        "game_url": "https://hfmanor.com/amidst-the-clouds",
+        "game_image_icon": "https://games.mathpapers.org/amidst-the-clouds/Clouds/splash.png",
+        "game-id": "amidst-the-clouds"
+    },
+    {
+        "name": "Thisistheonlylevel",
+        "game_url": "https://hfmanor.com/thisistheonlylevel",
+        "game_image_icon": "https://games.mathpapers.org/thisistheonlylevel/thisistheonlylevel.png",
+        "game-id": "thisistheonlylevel"
+    },
+    {
+        "name": "Wolf3d",
+        "game_url": "https://hfmanor.com/wolf3d",
+        "game_image_icon": "https://games.mathpapers.org/wolf3d/art/walls-shaded/64/w_95.png",
+        "game-id": "wolf3d"
+    },
+    {
+        "name": "Stormthehouse2",
+        "game_url": "https://hfmanor.com/stormthehouse2",
+        "game_image_icon": "https://games.mathpapers.org/stormthehouse2/stormthehouse2.jpg",
+        "game-id": "stormthehouse2"
+    },
+    {
+        "name": "Xx142 B2exe",
+        "game_url": "https://hfmanor.com/xx142-b2exe",
+        "game_image_icon": "https://games.mathpapers.org/xx142-b2exe/splash.png",
+        "game-id": "xx142-b2exe"
+    },
+    {
+        "name": "Supermarioconstruct",
+        "game_url": "https://hfmanor.com/supermarioconstruct",
+        "game_image_icon": "https://games.mathpapers.org/supermarioconstruct/media/icons/icon-32.png",
+        "game-id": "supermarioconstruct"
+    },
+    {
+        "name": "Vex4",
+        "game_url": "https://hfmanor.com/vex4",
+        "game_image_icon": "https://games.mathpapers.org/vex4/cdn.fbrq/@orange-games/splash/assets/icons/fun-game-play-mahjong.png",
+        "game-id": "vex4"
+    },
+    {
+        "name": "Vex3",
+        "game_url": "https://hfmanor.com/vex3",
+        "game_image_icon": "https://games.mathpapers.org/vex3/cdn.fbrq/@orange-games/splash/assets/icons/fun-game-play-mahjong.png",
+        "game-id": "vex3"
+    },
+    {
+        "name": "Wordle",
+        "game_url": "https://hfmanor.com/wordle",
+        "game_image_icon": "https://games.mathpapers.org/wordle/img/logo_48x48.png",
+        "game-id": "wordle"
+    },
+    {
+        "name": "Greybox",
+        "game_url": "https://hfmanor.com/greybox",
+        "game_image_icon": "https://games.mathpapers.org/greybox/ico.png",
+        "game-id": "greybox"
+    },
+    {
+        "name": "Google Snake",
+        "game_url": "https://hfmanor.com/google-snake",
+        "game_image_icon": "https://games.mathpapers.org/google-snake/assets/size_01.png",
+        "game-id": "google-snake"
+    },
+    {
+        "name": "Precision Client",
+        "game_url": "https://hfmanor.com/precision-client",
+        "game_image_icon": "https://games.mathpapers.org/precision-client/logo.png",
+        "game-id": "precision-client"
+    },
+    {
+        "name": "X Trial Racing",
+        "game_url": "https://hfmanor.com/x-trial-racing",
+        "game_image_icon": "https://games.mathpapers.org/x-trial-racing/splash.png",
+        "game-id": "x-trial-racing"
+    },
+    {
+        "name": "Dodge",
+        "game_url": "https://hfmanor.com/dodge",
+        "game_image_icon": "https://games.mathpapers.org/dodge/CEB64188-C91B-4FEE-95C1-3ACF6A8CA009.jpeg",
+        "game-id": "dodge"
+    },
+    {
+        "name": "Soccer Random",
+        "game_url": "https://hfmanor.com/soccer-random",
+        "game_image_icon": "https://games.mathpapers.org/soccer-random/splash.png",
+        "game-id": "soccer-random"
+    },
+    {
+        "name": "Missiles",
+        "game_url": "https://hfmanor.com/missiles",
+        "game_image_icon": "https://games.mathpapers.org/missiles/miss.png",
+        "game-id": "missiles"
+    },
+    {
+        "name": "Basket Random",
+        "game_url": "https://hfmanor.com/basket-random",
+        "game_image_icon": "https://games.mathpapers.org/basket-random/splash.jpeg",
+        "game-id": "basket-random"
+    },
+    {
+        "name": "Angry Sharks",
+        "game_url": "https://hfmanor.com/angry-sharks",
+        "game_image_icon": "https://games.mathpapers.org/angry-sharks/assets/img/splash.png",
+        "game-id": "angry-sharks"
+    },
+    {
+        "name": "The Final Earth",
+        "game_url": "https://hfmanor.com/the-final-earth",
+        "game_image_icon": "https://games.mathpapers.org/the-final-earth/images.png",
+        "game-id": "the-final-earth"
+    },
+    {
+        "name": "Superautopets",
+        "game_url": "https://hfmanor.com/superautopets",
+        "game_image_icon": "https://games.mathpapers.org/superautopets/TemplateData/Loading Icon.png",
+        "game-id": "superautopets"
+    },
+    {
+        "name": "A Dance Of Fire And Ice",
+        "game_url": "https://hfmanor.com/a-dance-of-fire-and-ice",
+        "game_image_icon": "https://games.mathpapers.org/a-dance-of-fire-and-ice/splash.png",
+        "game-id": "a-dance-of-fire-and-ice"
+    },
+    {
+        "name": "Vex2",
+        "game_url": "https://hfmanor.com/vex2",
+        "game_image_icon": "https://games.mathpapers.org/vex2/BC5ADE2D-5F7A-4352-A7FD-579517F823E4.jpeg",
+        "game-id": "vex2"
+    },
+    {
+        "name": "Temple Run 2",
+        "game_url": "https://hfmanor.com/temple-run-2",
+        "game_image_icon": "https://games.mathpapers.org/temple-run-2/079dea52d8f43464bedd59bc35cc7999.jpg",
+        "game-id": "temple-run-2"
+    },
+    {
+        "name": "Csgo Clicker",
+        "game_url": "https://hfmanor.com/csgo-clicker",
+        "game_image_icon": "https://games.mathpapers.org/csgo-clicker/images/case1.png",
+        "game-id": "csgo-clicker"
+    },
+    {
+        "name": "Craftmine",
+        "game_url": "https://hfmanor.com/craftmine",
+        "game_image_icon": "https://games.mathpapers.org/craftmine/images/pickaxe-sheet0.png",
+        "game-id": "craftmine"
+    },
+    {
+        "name": "Vex5",
+        "game_url": "https://hfmanor.com/vex5",
+        "game_image_icon": "https://games.mathpapers.org/vex5/assets/atlas/atlas_ui_gameplay.png",
+        "game-id": "vex5"
+    },
+    {
+        "name": "Townscaper",
+        "game_url": "https://hfmanor.com/townscaper",
+        "game_image_icon": "https://games.mathpapers.org/townscaper/img/cover.jpg",
+        "game-id": "townscaper"
+    },
+    {
+        "name": "Spelunky",
+        "game_url": "https://hfmanor.com/spelunky",
+        "game_image_icon": "https://games.mathpapers.org/spelunky/assets/icon.png",
+        "game-id": "spelunky"
+    },
+    {
+        "name": "Slope 2",
+        "game_url": "https://hfmanor.com/slope-2",
+        "game_image_icon": "https://games.mathpapers.org/slope-2/slope-2-logo.png",
+        "game-id": "slope-2"
+    },
+    {
+        "name": "Drift Boss",
+        "game_url": "https://hfmanor.com/drift-boss",
+        "game_image_icon": "https://games.mathpapers.org/drift-boss/media/graphics/splash/mobile/cover-start.jpg",
+        "game-id": "drift-boss"
+    },
+    {
+        "name": "Fruit Ninja",
+        "game_url": "https://hfmanor.com/fruit-ninja",
+        "game_image_icon": "https://games.mathpapers.org/fruitninja/assets/splash/splash screen.png",
+        "game-id": "fruit-ninja"
+    },
+    {
+        "name": "My Rusty Submarine",
+        "game_url": "https://hfmanor.com/my-rusty-submarine",
+        "game_image_icon": "https://games.mathpapers.org/my-rusty-submarine/splash.png",
+        "game-id": "my-rusty-submarine"
+    },
+    {
+        "name": "Soccer Skills",
+        "game_url": "https://hfmanor.com/soccer-skills",
+        "game_image_icon": "https://games.mathpapers.org/soccer-skills/splash.png",
+        "game-id": "soccer-skills"
+    },
+    {
+        "name": "Canyon Defense",
+        "game_url": "https://hfmanor.com/canyon-defense",
+        "game_image_icon": "https://games.mathpapers.org/canyondefense/canyondefense.png",
+        "game-id": "canyon-defense"
+    },
+    {
+        "name": "Shell Shockers",
+        "game_url": "https://hfmanor.com/shell-shockers",
+        "game_image_icon": "https://games.mathpapers.org/shellshockers/img/favicon.png",
+        "game-id": "shell-shockers"
+    },
+    {
+        "name": "Station 141",
+        "game_url": "https://hfmanor.com/station-141",
+        "game_image_icon": "https://games.mathpapers.org/station-141/Build/WebGL.jpg",
+        "game-id": "station-141"
+    },
+    {
+        "name": "Ltf3",
+        "game_url": "https://hfmanor.com/ltf3",
+        "game_image_icon": "https://games.mathpapers.org/ltf3/logo.png",
+        "game-id": "ltf3"
+    },
+    {
+        "name": "Align 4",
+        "game_url": "https://hfmanor.com/align-4",
+        "game_image_icon": "https://games.mathpapers.org/align-4/board.png",
+        "game-id": "align-4"
+    },
+    {
+        "name": "Bacon May Die",
+        "game_url": "https://hfmanor.com/bacon-may-die",
+        "game_image_icon": "https://games.mathpapers.org/bacon-may-die/splash.png",
+        "game-id": "bacon-may-die"
+    },
+    {
+        "name": "Cell Machine",
+        "game_url": "https://hfmanor.com/cell-machine",
+        "game_image_icon": "https://games.mathpapers.org/cell-machine/img/te9nDu.png",
+        "game-id": "cell-machine"
+    },
+    {
+        "name": "Tosstheturtle",
+        "game_url": "https://hfmanor.com/tosstheturtle",
+        "game_image_icon": "https://games.mathpapers.org/tosstheturtle/tosstheturtle.png",
+        "game-id": "tosstheturtle"
+    },
+    {
+        "name": "Overwatch",
+        "game_url": "https://hfmanor.com/overwatch",
+        "game_image_icon": "https://games.mathpapers.org/overwatch/98FBAD0A-F63A-46B5-81E7-0D3074D23365.jpeg",
+        "game-id": "overwatch"
+    },
+    {
+        "name": "Worlds Hardest Game",
+        "game_url": "https://hfmanor.com/worlds-hardest-game",
+        "game_image_icon": "https://games.mathpapers.org/worlds-hardest-game/images/splash.jpg",
+        "game-id": "worlds-hardest-game"
+    },
+    {
+        "name": "Polybranch",
+        "game_url": "https://hfmanor.com/polybranch",
+        "game_image_icon": "https://games.mathpapers.org/polybranch/img/pic2.png",
+        "game-id": "polybranch"
+    },
+    {
+        "name": "100ng",
+        "game_url": "https://hfmanor.com/100ng",
+        "game_image_icon": "https://games.mathpapers.org/100ng/100ng.jpg",
+        "game-id": "100ng"
+    },
+    {
+        "name": "Scratcharia",
+        "game_url": "https://hfmanor.com/scratcharia",
+        "game_image_icon": "https://games.mathpapers.org/scratcharia/splash.png",
+        "game-id": "scratcharia"
+    },
+    {
+        "name": "Piclient",
+        "game_url": "https://hfmanor.com/piclient",
+        "game_image_icon": "https://games.mathpapers.org/piclient/B969467B-2495-4872-A739-B6ECA873FF5A.jpeg",
+        "game-id": "piclient"
+    },
+    {
+        "name": "Hill Climb Racing",
+        "game_url": "https://hfmanor.com/hill-climb-racing",
+        "game_image_icon": "https://games.mathpapers.org/hill-climb-racing/splash.jpeg",
+        "game-id": "hill-climb-racing"
+    },
+    {
+        "name": "Highrisehop",
+        "game_url": "https://hfmanor.com/highrisehop",
+        "game_image_icon": "https://games.mathpapers.org/highrisehop/assets/gfx/logo.png",
+        "game-id": "highrisehop"
+    },
+    {
+        "name": "Ns Shaft",
+        "game_url": "https://hfmanor.com/ns-shaft",
+        "game_image_icon": "https://games.mathpapers.org/ns-shaft/bg.png",
+        "game-id": "ns-shaft"
+    },
+    {
+        "name": "Cannon Basketball 4",
+        "game_url": "https://hfmanor.com/cannon-basketball-4",
+        "game_image_icon": "https://games.mathpapers.org/cannon-basketball-4/assets/images/splash.png",
+        "game-id": "cannon-basketball-4"
+    },
+    {
+        "name": "Stickman Boost",
+        "game_url": "https://hfmanor.com/stickman-boost",
+        "game_image_icon": "https://games.mathpapers.org/stickman-boost/base/img1.jpg",
+        "game-id": "stickman-boost"
+    },
+    {
+        "name": "Boxhead2play",
+        "game_url": "https://hfmanor.com/boxhead2play",
+        "game_image_icon": "https://games.mathpapers.org/boxhead2play/boxhead2play.jpg",
+        "game-id": "boxhead2play"
+    },
+    {
+        "name": "Drive Mad",
+        "game_url": "https://hfmanor.com/drive-mad",
+        "game_image_icon": "https://games.mathpapers.org/drive-mad/webapp/cover.jpg",
+        "game-id": "drive-mad"
+    },
+    {
+        "name": "Learntofly",
+        "game_url": "https://hfmanor.com/learntofly",
+        "game_image_icon": "https://games.mathpapers.org/learntofly/learntofly.png",
+        "game-id": "learntofly"
+    },
+    {
+        "name": "Weavesilk",
+        "game_url": "https://hfmanor.com/weavesilk",
+        "game_image_icon": "https://games.mathpapers.org/weavesilk/img/silk_text.png",
+        "game-id": "weavesilk"
+    },
+    {
+        "name": "Riddletransfer",
+        "game_url": "https://hfmanor.com/riddletransfer",
+        "game_image_icon": "https://games.mathpapers.org/riddletransfer/riddletransfer.png",
+        "game-id": "riddletransfer"
+    },
+    {
+        "name": "Cupcake2048",
+        "game_url": "https://hfmanor.com/cupcake2048",
+        "game_image_icon": "https://games.mathpapers.org/cupcake2048/style/img/bg.jpg",
+        "game-id": "cupcake2048"
+    },
+    {
+        "name": "Evolution",
+        "game_url": "https://hfmanor.com/evolution",
+        "game_image_icon": "https://games.mathpapers.org/evolution/splash.png",
+        "game-id": "evolution"
+    },
+    {
+        "name": "Cubefield",
+        "game_url": "https://hfmanor.com/cubefield",
+        "game_image_icon": "https://games.mathpapers.org/cubefield/assets/unnamed.png",
+        "game-id": "cubefield"
+    },
+    {
+        "name": "Subway Surfers Ny",
+        "game_url": "https://hfmanor.com/subway-surfers-ny",
+        "game_image_icon": "https://games.mathpapers.org/subway-surfers-ny/assets/preload/splash_mip.png",
+        "game-id": "subway-surfers-ny"
+    },
+    {
+        "name": "Happy Hop",
+        "game_url": "https://hfmanor.com/happy-hop",
+        "game_image_icon": "https://games.mathpapers.org/happy-hop/splash.png",
+        "game-id": "happy-hop"
+    },
+    {
+        "name": "Scrapmetal",
+        "game_url": "https://hfmanor.com/scrapmetal",
+        "game_image_icon": "https://games.mathpapers.org/scrapmetal/img/splash.png",
+        "game-id": "scrapmetal"
+    },
+    {
+        "name": "Riddletransfer2",
+        "game_url": "https://hfmanor.com/riddletransfer2",
+        "game_image_icon": "https://games.mathpapers.org/riddletransfer2/riddletransfer2.png",
+        "game-id": "riddletransfer2"
+    },
+    {
+        "name": "Superhot",
+        "game_url": "https://hfmanor.com/superhot",
+        "game_image_icon": "https://games.mathpapers.org/superhot/hot.jpg",
+        "game-id": "superhot"
+    },
+    {
+        "name": "Legacyflashgames",
+        "game_url": "https://hfmanor.com/legacyflashgames",
+        "game_image_icon": "https://games.mathpapers.org/legacyflashgames/rogers/R_house/tellstory/speedydelivery/color-package-6.gif",
+        "game-id": "legacyflashgames"
+    },
+    {
+        "name": "Riddleschool2",
+        "game_url": "https://hfmanor.com/riddleschool2",
+        "game_image_icon": "https://games.mathpapers.org/riddleschool2/riddleschool2.png",
+        "game-id": "riddleschool2"
+    },
+    {
+        "name": "Champion Island",
+        "game_url": "https://hfmanor.com/champion-island",
+        "game_image_icon": "https://games.mathpapers.org/champion-island/splash.png",
+        "game-id": "champion-island"
+    },
+    {
+        "name": "Kirkaio",
+        "game_url": "https://hfmanor.com/kirkaio",
+        "game_image_icon": "https://games.mathpapers.org/kirkaio/C0DADB28-2750-4DF9-9499-4BB61119877D.jpeg",
+        "game-id": "kirkaio"
+    },
+    {
+        "name": "Shogunshowdown",
+        "game_url": "https://hfmanor.com/shogunshowdown",
+        "game_image_icon": "https://games.mathpapers.org/shogunshowdown/19C0D9BB-86C1-4A65-B374-638BD25EE0FC.png",
+        "game-id": "shogunshowdown"
+    },
+    {
+        "name": "Backrooms",
+        "game_url": "https://hfmanor.com/backrooms",
+        "game_image_icon": "https://games.mathpapers.org/backrooms/img/splash.jpg",
+        "game-id": "backrooms"
+    },
+    {
+        "name": "Riddleschool5",
+        "game_url": "https://hfmanor.com/riddleschool5",
+        "game_image_icon": "https://games.mathpapers.org/riddleschool5/riddleschool5.png",
+        "game-id": "riddleschool5"
+    },
+    {
+        "name": "Happy Wheels",
+        "game_url": "https://hfmanor.com/happy-wheels",
+        "game_image_icon": "https://games.mathpapers.org/happywheels/b.png",
+        "game-id": "happy-wheels"
+    },
+    {
+        "name": "Flippy Fish",
+        "game_url": "https://hfmanor.com/flippy-fish",
+        "game_image_icon": "https://games.mathpapers.org/flippy-fish/cwzPGJ.png",
+        "game-id": "flippy-fish"
+    },
+    {
+        "name": "Fantasy Dash",
+        "game_url": "https://hfmanor.com/fantasy-dash",
+        "game_image_icon": "https://games.mathpapers.org/fantasy-dash/DF24D85A-B7B5-4CF0-8194-DB6CD89C6975.jpeg",
+        "game-id": "fantasy-dash"
+    },
+    {
+        "name": "Iron dash",
+        "game_url": "https://hfmanor.com/iron dash",
+        "game_image_icon": "https://games.mathpapers.org/iron dash/9FF39FCC-64B1-491C-97FC-A34357F9583A.jpeg",
+        "game-id": "iron dash"
+    },
+    {
+        "name": "Papasburgeria",
+        "game_url": "https://hfmanor.com/papasburgeria",
+        "game_image_icon": "https://games.mathpapers.org/papasburgeria/splash.jpg",
+        "game-id": "papasburgeria"
+    },
+    {
+        "name": "Creativekillchamber",
+        "game_url": "https://hfmanor.com/creativekillchamber",
+        "game_image_icon": "https://games.mathpapers.org/creativekillchamber/creativekillchamber.jpg",
+        "game-id": "creativekillchamber"
+    },
+    {
+        "name": "Core Ball",
+        "game_url": "https://hfmanor.com/core-ball",
+        "game_image_icon": "https://games.mathpapers.org/core-ball/image/WB_logo.png",
+        "game-id": "core-ball"
+    },
+    {
+        "name": "Avalanche",
+        "game_url": "https://hfmanor.com/avalanche",
+        "game_image_icon": "https://games.mathpapers.org/avalanche/avalanche.png",
+        "game-id": "avalanche"
+    },
+    {
+        "name": "Georgeandtheprinter",
+        "game_url": "https://hfmanor.com/georgeandtheprinter",
+        "game_image_icon": "https://games.mathpapers.org/georgeandtheprinter/img/SnDTEn.png",
+        "game-id": "georgeandtheprinter"
+    },
+    {
+        "name": "Pigeon Ascent",
+        "game_url": "https://hfmanor.com/pigeon-ascent",
+        "game_image_icon": "https://games.mathpapers.org/pigeon-ascent/index.png",
+        "game-id": "pigeon-ascent"
+    },
+    {
+        "name": "Gravity Soccer",
+        "game_url": "https://hfmanor.com/gravity-soccer",
+        "game_image_icon": "https://games.mathpapers.org/gravity-soccer/splash.png",
+        "game-id": "gravity-soccer"
+    },
+    {
+        "name": "Ages Of Conflict",
+        "game_url": "https://hfmanor.com/ages-of-conflict",
+        "game_image_icon": "https://games.mathpapers.org/ages-of-conflict/splash.jpg",
+        "game-id": "ages-of-conflict"
+    },
+    {
+        "name": "Riddleschool4",
+        "game_url": "https://hfmanor.com/riddleschool4",
+        "game_image_icon": "https://games.mathpapers.org/riddleschool4/riddleschool4.png",
+        "game-id": "riddleschool4"
+    },
+    {
+        "name": "Adarkroom",
+        "game_url": "https://hfmanor.com/adarkroom",
+        "game_image_icon": "https://games.mathpapers.org/adarkroom/splash.png",
+        "game-id": "adarkroom"
+    },
+    {
+        "name": "Riddleschool3",
+        "game_url": "https://hfmanor.com/riddleschool3",
+        "game_image_icon": "https://games.mathpapers.org/riddleschool3/riddleschool3.png",
+        "game-id": "riddleschool3"
+    },
+    {
+        "name": "Eggy Car",
+        "game_url": "https://hfmanor.com/eggy-car",
+        "game_image_icon": "https://games.mathpapers.org/eggycar/images/car_sel_card-sheet0.png",
+        "game-id": "eggy-car"
+    },
+    {
+        "name": "Awesometanks2",
+        "game_url": "https://hfmanor.com/awesometanks2",
+        "game_image_icon": "https://games.mathpapers.org/awesometanks2/images/menu/help/keyboard_moving.png",
+        "game-id": "awesometanks2"
+    },
+    {
+        "name": "Yohoho",
+        "game_url": "https://hfmanor.com/yohoho",
+        "game_image_icon": "https://games.mathpapers.org/yohoho/yohoho.png",
+        "game-id": "yohoho"
+    },
+    {
+        "name": "9007199254740992",
+        "game_url": "https://hfmanor.com/9007199254740992",
+        "game_image_icon": "https://games.mathpapers.org/9007199254740992/meta/apple-touch-icon.png",
+        "game-id": "9007199254740992"
+    },
+    {
+        "name": "Bus and subway",
+        "game_url": "https://hfmanor.com/bus and subway",
+        "game_image_icon": "https://games.mathpapers.org/bus and subway/img.jpg",
+        "game-id": "bus and subway"
+    },
+    {
+        "name": "Mindustry",
+        "game_url": "https://hfmanor.com/mindustry",
+        "game_image_icon": "https://games.mathpapers.org/mindustry/splash.png",
+        "game-id": "mindustry"
+    },
+    {
+        "name": "Bobtherobber2",
+        "game_url": "https://hfmanor.com/bobtherobber2",
+        "game_image_icon": "https://games.mathpapers.org/bobtherobber2/splash.jpeg",
+        "game-id": "bobtherobber2"
+    },
+    {
+        "name": "2048 Multitask",
+        "game_url": "https://hfmanor.com/2048-multitask",
+        "game_image_icon": "https://games.mathpapers.org/2048-multitask/splash.png",
+        "game-id": "2048-multitask"
+    },
+    {
+        "name": "Eel Slap",
+        "game_url": "https://hfmanor.com/eel-slap",
+        "game_image_icon": "https://games.mathpapers.org/eel-slap/images/eelslap_site_panorama4.jpg",
+        "game-id": "eel-slap"
+    },
+    {
+        "name": "Chill Radio",
+        "game_url": "https://hfmanor.com/chill-radio",
+        "game_image_icon": "https://games.mathpapers.org/chill-radio/img/background.gif",
+        "game-id": "chill-radio"
+    },
+    {
+        "name": "There Is No Game",
+        "game_url": "https://hfmanor.com/there-is-no-game",
+        "game_image_icon": "https://games.mathpapers.org/there-is-no-game/images/splash.png",
+        "game-id": "there-is-no-game"
+    },
+    {
+        "name": "Throwrocks",
+        "game_url": "https://hfmanor.com/throwrocks",
+        "game_image_icon": "https://games.mathpapers.org/throwrocks/card.png",
+        "game-id": "throwrocks"
+    },
+    {
+        "name": "Ballistic Chickens",
+        "game_url": "https://hfmanor.com/ballistic-chickens",
+        "game_image_icon": "https://games.mathpapers.org/ballistic-chickens/sprites/trampoline.png",
+        "game-id": "ballistic-chickens"
+    },
+    {
+        "name": "Linerider",
+        "game_url": "https://hfmanor.com/linerider",
+        "game_image_icon": "https://games.mathpapers.org/linerider/6954B825-C61C-41E0-BFD9-7EA4FC6D0FE1.jpeg",
+        "game-id": "linerider"
+    },
+    {
+        "name": "Bigredbutton",
+        "game_url": "https://hfmanor.com/bigredbutton",
+        "game_image_icon": "https://games.mathpapers.org/bigredbutton/bigredbutton.png",
+        "game-id": "bigredbutton"
+    },
+    {
+        "name": "Resent Client",
+        "game_url": "https://hfmanor.com/resent-client",
+        "game_image_icon": "https://games.mathpapers.org/resent-client/splash.jpg",
+        "game-id": "resent-client"
+    },
+    {
+        "name": "Trimps",
+        "game_url": "https://hfmanor.com/Trimps",
+        "game_image_icon": "https://games.mathpapers.org/Trimps/imgs/reddit_logo.png",
+        "game-id": "Trimps"
+    },
+    {
+        "name": "Elasticman",
+        "game_url": "https://hfmanor.com/elasticman",
+        "game_image_icon": "https://games.mathpapers.org/elasticman/elasticman.jpg",
+        "game-id": "elasticman"
+    },
+    {
+        "name": "CMM Client",
+        "game_url": "https://hfmanor.com/CMM Client",
+        "game_image_icon": "https://games.mathpapers.org/CMM Client/EC4B216C-B637-41A3-A3D9-79D4048DD7A3.jpeg",
+        "game-id": "CMM Client"
+    },
+    {
+        "name": "Plants vs zombies 1",
+        "game_url": "https://hfmanor.com/plants vs zombies 1",
+        "game_image_icon": "https://games.mathpapers.org/plants vs zombies 1/image_proxy.png",
+        "game-id": "plants vs zombies 1"
+    },
+    {
+        "name": "Backrooms2d",
+        "game_url": "https://hfmanor.com/backrooms2d",
+        "game_image_icon": "https://games.mathpapers.org/backrooms2d/BF18A6F3-4A1B-4AF7-B383-B9A359A1DBDF.jpeg",
+        "game-id": "backrooms2d"
+    },
+    {
+        "name": "Pandemic2",
+        "game_url": "https://hfmanor.com/pandemic2",
+        "game_image_icon": "https://games.mathpapers.org/pandemic2/pandemic2.png",
+        "game-id": "pandemic2"
+    },
+    {
+        "name": "99balls",
+        "game_url": "https://hfmanor.com/99balls",
+        "game_image_icon": "https://games.mathpapers.org/99balls/99-balls-evo.jpg",
+        "game-id": "99balls"
+    },
+    {
+        "name": "Yoshifabrication",
+        "game_url": "https://hfmanor.com/yoshifabrication",
+        "game_image_icon": "https://games.mathpapers.org/yoshifabrication/icons/icon-512.png",
+        "game-id": "yoshifabrication"
+    },
+    {
+        "name": "Baldis Basics",
+        "game_url": "https://hfmanor.com/baldis-basics",
+        "game_image_icon": "https://games.mathpapers.org/baldis-basics/splash.png",
+        "game-id": "baldis-basics"
+    },
+    {
+        "name": "Gimme The Airpod",
+        "game_url": "https://hfmanor.com/gimme-the-airpod",
+        "game_image_icon": "https://games.mathpapers.org/gimme-the-airpod/img/airpod.png",
+        "game-id": "gimme-the-airpod"
+    },
+    {
+        "name": "ShapeShootout",
+        "game_url": "https://hfmanor.com/ShapeShootout",
+        "game_image_icon": "https://games.mathpapers.org/ShapeShootout/Icon.png",
+        "game-id": "ShapeShootout"
+    },
+    {
+        "name": "Robuxclicker",
+        "game_url": "https://hfmanor.com/robuxclicker",
+        "game_image_icon": "https://games.mathpapers.org/robuxclicker/1517CE7D-1708-489E-9C51-E52887A13855.jpeg",
+        "game-id": "robuxclicker"
+    },
+    {
+        "name": "Drift Hunters",
+        "game_url": "https://hfmanor.com/drift-hunters",
+        "game_image_icon": "https://games.mathpapers.org/drift-hunters/drift-hunters.png",
+        "game-id": "drift-hunters"
+    },
+    {
+        "name": "Webretro",
+        "game_url": "https://hfmanor.com/webretro",
+        "game_image_icon": "https://games.mathpapers.org/webretro/assets/icons/icont256.png",
+        "game-id": "webretro"
+    },
+    {
+        "name": "Friday Night Funkin'",
+        "game_url": "https://hfmanor.com/Friday Night Funkin'",
+        "game_image_icon": "https://games.mathpapers.org/fridaynightfunkin/assets/week3/images/philly/sky.png",
+        "game-id": "Friday Night Funkin'"
+    },
+    {
+        "name": "Stack",
+        "game_url": "https://hfmanor.com/stack",
+        "game_image_icon": "https://games.mathpapers.org/stack/stack.png",
+        "game-id": "stack"
+    },
+    {
+        "name": "Breakingthebank",
+        "game_url": "https://hfmanor.com/breakingthebank",
+        "game_image_icon": "https://games.mathpapers.org/breakingthebank/breakingthebank.png",
+        "game-id": "breakingthebank"
+    },
+    {
+        "name": "Protektor",
+        "game_url": "https://hfmanor.com/protektor",
+        "game_image_icon": "https://games.mathpapers.org/protektor/splash.jpg",
+        "game-id": "protektor"
+    },
+    {
+        "name": "Championarcher",
+        "game_url": "https://hfmanor.com/championarcher",
+        "game_image_icon": "https://games.mathpapers.org/championarcher/championarcher.png",
+        "game-id": "championarcher"
+    },
+    {
+        "name": "Just One Boss",
+        "game_url": "https://hfmanor.com/just-one-boss",
+        "game_image_icon": "https://games.mathpapers.org/just-one-boss/pv1Gr5.png",
+        "game-id": "just-one-boss"
+    },
+    {
+        "name": "Run",
+        "game_url": "https://hfmanor.com/run",
+        "game_image_icon": "https://games.mathpapers.org/run/run.png",
+        "game-id": "run"
+    },
+    {
+        "name": "Blackknight",
+        "game_url": "https://hfmanor.com/blackknight",
+        "game_image_icon": "https://games.mathpapers.org/blackknight/blackknight.png",
+        "game-id": "blackknight"
+    },
+    {
+        "name": "Slope Ball",
+        "game_url": "https://hfmanor.com/slope-ball",
+        "game_image_icon": "https://games.mathpapers.org/slope-ball/files/splash.jpg",
+        "game-id": "slope-ball"
+    },
+    {
+        "name": "Fake Virus",
+        "game_url": "https://hfmanor.com/fake-virus",
+        "game_image_icon": "https://games.mathpapers.org/fake-virus/icon.png",
+        "game-id": "fake-virus"
+    },
+    {
+        "name": "Fleeingthecomplex",
+        "game_url": "https://hfmanor.com/fleeingthecomplex",
+        "game_image_icon": "https://games.mathpapers.org/fleeingthecomplex/a.png",
+        "game-id": "fleeingthecomplex"
+    },
+    {
+        "name": "N Gon",
+        "game_url": "https://hfmanor.com/n-gon",
+        "game_image_icon": "https://games.mathpapers.org/n-gon/img/n-gonbot.png",
+        "game-id": "n-gon"
+    },
+    {
+        "name": "Evil Glitch",
+        "game_url": "https://hfmanor.com/evil-glitch",
+        "game_image_icon": "https://games.mathpapers.org/evil-glitch/icon.jpeg",
+        "game-id": "evil-glitch"
+    },
+    {
+        "name": "Tube Jumpers",
+        "game_url": "https://hfmanor.com/tube-jumpers",
+        "game_image_icon": "https://games.mathpapers.org/tube-jumpers/img/shark.jpg",
+        "game-id": "tube-jumpers"
+    },
+    {
+        "name": "Minecraft",
+        "game_url": "https://hfmanor.com/Minecraft",
+        "game_image_icon": "https://games.mathpapers.org/minecraft-15/splash.jpeg",
+        "game-id": "Minecraft"
+    },
+    {
+        "name": "Adventure Drivers",
+        "game_url": "https://hfmanor.com/adventure-drivers",
+        "game_image_icon": "https://games.mathpapers.org/adventure-drivers/splash.png",
+        "game-id": "adventure-drivers"
+    },
+    {
+        "name": "Burger And Frights",
+        "game_url": "https://hfmanor.com/burger-and-frights",
+        "game_image_icon": "https://games.mathpapers.org/burger-and-frights/splash.png",
+        "game-id": "burger-and-frights"
+    },
+    {
+        "name": "Battleforgondor",
+        "game_url": "https://hfmanor.com/battleforgondor",
+        "game_image_icon": "https://games.mathpapers.org/battleforgondor/battleforgondor.JPG",
+        "game-id": "battleforgondor"
+    },
+    {
+        "name": "Sleepingbeauty",
+        "game_url": "https://hfmanor.com/sleepingbeauty",
+        "game_image_icon": "https://games.mathpapers.org/sleepingbeauty/splash.png",
+        "game-id": "sleepingbeauty"
+    },
+    {
+        "name": "Papaspizzaria",
+        "game_url": "https://hfmanor.com/papaspizzaria",
+        "game_image_icon": "https://games.mathpapers.org/papaspizzaria/papaspizzaria.jpg",
+        "game-id": "papaspizzaria"
+    },
+    {
+        "name": "Spinningrat",
+        "game_url": "https://hfmanor.com/spinningrat",
+        "game_image_icon": "https://games.mathpapers.org/spinningrat/assets/rat/rat.jpg",
+        "game-id": "spinningrat"
+    },
+    {
+        "name": "Mario",
+        "game_url": "https://hfmanor.com/mario",
+        "game_image_icon": "https://games.mathpapers.org/mario/Theme/Mario.gif",
+        "game-id": "mario"
+    },
+    {
+        "name": "Ruffle",
+        "game_url": "https://hfmanor.com/ruffle",
+        "game_image_icon": "https://games.mathpapers.org/ruffle/splash.png",
+        "game-id": "ruffle"
+    },
+    {
+        "name": "Mineblocks",
+        "game_url": "https://hfmanor.com/mineblocks",
+        "game_image_icon": "https://games.mathpapers.org/mineblocks/splash.png",
+        "game-id": "mineblocks"
+    },
+    {
+        "name": "Amazing Rope Police",
+        "game_url": "https://hfmanor.com/amazing-rope-police",
+        "game_image_icon": "https://games.mathpapers.org/amazing-rope-police/splash.jpeg",
+        "game-id": "amazing-rope-police"
+    },
+    {
+        "name": "Nsresurgence",
+        "game_url": "https://hfmanor.com/nsresurgence",
+        "game_image_icon": "https://games.mathpapers.org/nsresurgence/neon.png",
+        "game-id": "nsresurgence"
+    },
+    {
+        "name": "Bad Ice Cream",
+        "game_url": "https://hfmanor.com/bad-ice-cream",
+        "game_image_icon": "https://games.mathpapers.org/bad-ice-cream/bad-ice-cream.png",
+        "game-id": "bad-ice-cream"
+    },
+    {
+        "name": "Hba",
+        "game_url": "https://hfmanor.com/hba",
+        "game_image_icon": "https://games.mathpapers.org/hba/hoverbotarena.JPG",
+        "game-id": "hba"
+    },
+    {
+        "name": "Eaglerjp",
+        "game_url": "https://hfmanor.com/eaglerjp",
+        "game_image_icon": "https://games.mathpapers.org/eaglerjp/favicon.ico",
+        "game-id": "eaglerjp"
+    },
+    {
+        "name": "Rooftop Snipers",
+        "game_url": "https://hfmanor.com/rooftop-snipers",
+        "game_image_icon": "https://games.mathpapers.org/rooftop-snipers/img/thumb.png",
+        "game-id": "rooftop-snipers"
+    },
+    {
+        "name": "Froggys Battle",
+        "game_url": "https://hfmanor.com/froggys-battle",
+        "game_image_icon": "https://games.mathpapers.org/froggys-battle/splash.png",
+        "game-id": "froggys-battle"
+    },
+    {
+        "name": "Scooperia",
+        "game_url": "https://hfmanor.com/scooperia",
+        "game_image_icon": "https://games.mathpapers.org/scooperia/scoop.png",
+        "game-id": "scooperia"
+    },
+    {
+        "name": "Sand Game",
+        "game_url": "https://hfmanor.com/sand-game",
+        "game_image_icon": "https://games.mathpapers.org/sand-game/assets/favicon.ico",
+        "game-id": "sand-game"
+    },
+    {
+        "name": "Tacticalassasin2",
+        "game_url": "https://hfmanor.com/tacticalassasin2",
+        "game_image_icon": "https://games.mathpapers.org/tacticalassasin2/tacticalassassin2.png",
+        "game-id": "tacticalassasin2"
+    },
+    {
+        "name": "DogeMiner",
+        "game_url": "https://hfmanor.com/DogeMiner",
+        "game_image_icon": "https://games.mathpapers.org/DogeMiner/img/bg/bg2.jpg",
+        "game-id": "DogeMiner"
+    },
+    {
+        "name": "Stickman Golf",
+        "game_url": "https://hfmanor.com/stickman-golf",
+        "game_image_icon": "https://games.mathpapers.org/stickman-golf/splash.png",
+        "game-id": "stickman-golf"
+    },
+    {
+        "name": "Achievementunlocked",
+        "game_url": "https://hfmanor.com/achievementunlocked",
+        "game_image_icon": "https://games.mathpapers.org/achievementunlocked/achievementunlocked.png",
+        "game-id": "achievementunlocked"
+    },
+    {
+        "name": "Ltf Idle",
+        "game_url": "https://hfmanor.com/ltf-idle",
+        "game_image_icon": "https://games.mathpapers.org/ltf-idle/thumbnail.jpg",
+        "game-id": "ltf-idle"
+    },
+    {
+        "name": "Aquapark Slides",
+        "game_url": "https://hfmanor.com/aquapark-slides",
+        "game_image_icon": "https://games.mathpapers.org/aquapark-slides/splash.png",
+        "game-id": "aquapark-slides"
+    },
+    {
+        "name": "Iceagebaby2",
+        "game_url": "https://hfmanor.com/iceagebaby2",
+        "game_image_icon": "https://games.mathpapers.org/iceagebaby2/pinky.jpg",
+        "game-id": "iceagebaby2"
+    },
+    {
+        "name": "Stationmeltdown",
+        "game_url": "https://hfmanor.com/stationmeltdown",
+        "game_image_icon": "https://games.mathpapers.org/stationmeltdown/image.png",
+        "game-id": "stationmeltdown"
+    },
+    {
+        "name": "Osu!",
+        "game_url": "https://hfmanor.com/osu!",
+        "game_image_icon": "https://games.mathpapers.org/osu!/fonts/venera_0.png",
+        "game-id": "osu!"
+    },
+    {
+        "name": "Flappy Bird",
+        "game_url": "https://hfmanor.com/flappy-bird",
+        "game_image_icon": "https://games.mathpapers.org/flappy-bird/assets/splash.png",
+        "game-id": "flappy-bird"
+    },
+    {
+        "name": "Veloce",
+        "game_url": "https://hfmanor.com/veloce",
+        "game_image_icon": "https://games.mathpapers.org/veloce/qN6zkD.png",
+        "game-id": "veloce"
+    },
+    {
+        "name": "Portalflash",
+        "game_url": "https://hfmanor.com/portalflash",
+        "game_image_icon": "https://games.mathpapers.org/portalflash/portaltheflashversion.jpg",
+        "game-id": "portalflash"
+    },
+    {
+        "name": "Geojump",
+        "game_url": "https://hfmanor.com/geojump",
+        "game_image_icon": "https://games.mathpapers.org/geojump/loading3860.png",
+        "game-id": "geojump"
+    },
+    {
+        "name": "Stickwar",
+        "game_url": "https://hfmanor.com/stickwar",
+        "game_image_icon": "https://games.mathpapers.org/stickwar/stickwar.jpg",
+        "game-id": "stickwar"
+    },
+    {
+        "name": "Krunker",
+        "game_url": "https://hfmanor.com/krunker",
+        "game_image_icon": "https://games.mathpapers.org/krunker/img/logo_1.png",
+        "game-id": "krunker"
+    },
+    {
+        "name": "Geoneondash",
+        "game_url": "https://hfmanor.com/geoneondash",
+        "game_image_icon": "https://games.mathpapers.org/geoneondash/icon-256.png",
+        "game-id": "geoneondash"
+    },
+    {
+        "name": "Poom",
+        "game_url": "https://hfmanor.com/poom",
+        "game_image_icon": "https://games.mathpapers.org/poom/img/start.png",
+        "game-id": "poom"
+    },
+    {
+        "name": "Blockpost",
+        "game_url": "https://hfmanor.com/blockpost",
+        "game_image_icon": "https://games.mathpapers.org/blockpost/screenshots/1.jpg",
+        "game-id": "blockpost"
+    },
+    {
+        "name": "Escapingtheprison",
+        "game_url": "https://hfmanor.com/escapingtheprison",
+        "game_image_icon": "https://games.mathpapers.org/escapingtheprison/escapingtheprison.jpg",
+        "game-id": "escapingtheprison"
+    },
+    {
+        "name": "Impossiblequiz",
+        "game_url": "https://hfmanor.com/impossiblequiz",
+        "game_image_icon": "https://games.mathpapers.org/impossiblequiz/impossiblequiz.png",
+        "game-id": "impossiblequiz"
+    },
+    {
+        "name": "Cars Simulator",
+        "game_url": "https://hfmanor.com/cars-simulator",
+        "game_image_icon": "https://games.mathpapers.org/cars-simulator/splash.png",
+        "game-id": "cars-simulator"
+    },
+    {
+        "name": "Idledices",
+        "game_url": "https://hfmanor.com/idledices",
+        "game_image_icon": "https://games.mathpapers.org/idledices/images/icon32.png",
+        "game-id": "idledices"
+    },
+    {
+        "name": "Shuttledeck",
+        "game_url": "https://hfmanor.com/shuttledeck",
+        "game_image_icon": "https://games.mathpapers.org/shuttledeck/splash.png",
+        "game-id": "shuttledeck"
+    },
+    {
+        "name": "1v1lol",
+        "game_url": "https://hfmanor.com/1v1lol",
+        "game_image_icon": "https://games.mathpapers.org/1v1lol-unblocked/uploads/2024/12/1v1-lol-classrooom6x-unblocked-thumbnail.jpg",
+        "game-id": "1v1lol"
+    },
+    {
+        "name": "1v1space",
+        "game_url": "https://hfmanor.com/1v1space",
+        "game_image_icon": "https://games.mathpapers.org/1v1space/splash.png",
+        "game-id": "1v1space"
+    },
+    {
+        "name": "Superfowlist",
+        "game_url": "https://hfmanor.com/superfowlist",
+        "game_image_icon": "https://games.mathpapers.org/superfowlist/fowlist.png",
+        "game-id": "superfowlist"
+    },
+    {
+        "name": "Game Inside",
+        "game_url": "https://hfmanor.com/game-inside",
+        "game_image_icon": "https://games.mathpapers.org/game-inside/img/display.png",
+        "game-id": "game-inside"
+    },
+    {
+        "name": "Angelunder",
+        "game_url": "https://hfmanor.com/angelunder",
+        "game_image_icon": "https://games.mathpapers.org/angelunder/TemplateData/babusgames-logo.png",
+        "game-id": "angelunder"
+    },
+    {
+        "name": "Moto X3M Winter",
+        "game_url": "https://hfmanor.com/moto-X3M-winter",
+        "game_image_icon": "https://games.mathpapers.org/motox3m-winter/assets/atlases/x1/garage.png",
+        "game-id": "moto-X3M-winter"
+    },
+    {
+        "name": "Geodashlite",
+        "game_url": "https://hfmanor.com/geodashlite",
+        "game_image_icon": "https://games.mathpapers.org/geodashlite/image/loading.png",
+        "game-id": "geodashlite"
+    },
+    {
+        "name": "Paper.io 2",
+        "game_url": "https://hfmanor.com/Paper.io 2",
+        "game_image_icon": "https://games.mathpapers.org/paperio2/images/icon192.png",
+        "game-id": "Paper.io 2"
+    },
+    {
+        "name": "Glass City",
+        "game_url": "https://hfmanor.com/glass-city",
+        "game_image_icon": "https://games.mathpapers.org/glass-city/banner.png",
+        "game-id": "glass-city"
+    },
+    {
+        "name": "Gun Spin",
+        "game_url": "https://hfmanor.com/gun-spin",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/2023/06/100GSpin.webp",
+        "game-id": "gun-spin"
+    },
+    {
+        "name": "Roblox",
+        "game_url": "https://hfmanor.com/roblox",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100Roblox-q76mel5mwz90mk4d6pz0qf3fymrmczv52tzcxtqpk8.webp",
+        "game-id": "roblox"
+    },
+    {
+        "name": "Tomb Of The Mask",
+        "game_url": "https://hfmanor.com/tomb-of-the-mask",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100TombOfTheMask-1-qfdr9hk5g9xli8xrm8vb55w116398i3rwtcg6gqo6g.webp",
+        "game-id": "tomb-of-the-mask"
+    },
+    {
+        "name": "Infinite Craft",
+        "game_url": "https://hfmanor.com/infinite-craft",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/IC100-1-ql5ccxfb5pozaxrcykehy0lk7gd26a9xmtc78h542w.webp",
+        "game-id": "infinite-craft"
+    },
+    {
+        "name": "Getting Over It",
+        "game_url": "https://hfmanor.com/getting-over-it",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100GettingOverIt-q76mebr90mw5egi0plwr1hgu0s1y80ttpjgi524nag.webp",
+        "game-id": "getting-over-it"
+    },
+    {
+        "name": "Bottle Flip 3d",
+        "game_url": "https://hfmanor.com/bottle-flip-3d",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100BottleFlip-q76mdzjcjsff7izroymln2juarq6fyhbbuz6wgmrjc.webp",
+        "game-id": "bottle-flip-3d"
+    },
+    {
+        "name": "Dune",
+        "game_url": "https://hfmanor.com/dune",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100Dune-q76me647vmofgsq7mjgzmiw2ggtqxu7forjl9ed0bs.webp",
+        "game-id": "dune"
+    },
+    {
+        "name": "Spacebar Clicker",
+        "game_url": "https://hfmanor.com/spacebar-clicker",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100SpacebarClicker-1-qf8541o077nx7rtsrj5tglmdzno8f1600to55f2qco.webp",
+        "game-id": "spacebar-clicker"
+    },
+    {
+        "name": "A Small World Cup",
+        "game_url": "https://hfmanor.com/a-small-world-cup",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100WorldCup-q76mesocfnjb7ftfyt81ad74ppqk2kozrv78s1fk6g.webp",
+        "game-id": "a-small-world-cup"
+    },
+    {
+        "name": "Spill It",
+        "game_url": "https://hfmanor.com/spill-it",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/2024/04/SpillIt100-1.webp",
+        "game-id": "spill-it"
+    },
+    {
+        "name": "Time Shooter 2",
+        "game_url": "https://hfmanor.com/time-shooter-2",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100Time-qdqeeqpcp88rdeidpecpydy75agub50o6grkz0ub5s.webp",
+        "game-id": "time-shooter-2"
+    },
+    {
+        "name": "Fortnite",
+        "game_url": "https://hfmanor.com/fortnite",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100Fortnite-q76me9vkmytkr8kr0l3hwhxwu0b7smmd1a5j6i7fmw.webp",
+        "game-id": "fortnite"
+    },
+    {
+        "name": "Grand Shift Auto",
+        "game_url": "https://hfmanor.com/grand-shift-auto",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100GrandShiftAutp-q76mecp37gxfq2gnk4bdlz8am5xbfpxk1o3zmc3948.webp",
+        "game-id": "grand-shift-auto"
+    },
+    {
+        "name": "Happy Glass 1",
+        "game_url": "https://hfmanor.com/happy-glass-1",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/HappyGlass100-1-qlryskekwfall2j4sawytc2ul5u2pdyy38qyqco4cg.webp",
+        "game-id": "happy-glass-1"
+    },
+    {
+        "name": "Snowball",
+        "game_url": "https://hfmanor.com/snowball",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100Snowball-1-qe1gmz96ok8uh55685kjwnrvf6qmuk4huk7iegb7xk.webp",
+        "game-id": "snowball"
+    },
+    {
+        "name": "Dreadhead Parkout",
+        "game_url": "https://hfmanor.com/dreadhead-parkout",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/2023/05/100Dreadhead.webp",
+        "game-id": "dreadhead-parkout"
+    },
+    {
+        "name": "Hoops",
+        "game_url": "https://hfmanor.com/hoops",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/Hoops100-1-qj7tpy8z9sgn5hqocimbb64ozb1c9bgmq2wt2hv208.webp",
+        "game-id": "hoops"
+    },
+    {
+        "name": "Route Digger",
+        "game_url": "https://hfmanor.com/route-digger",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/2024/04/RouteDigger100-1.webp",
+        "game-id": "route-digger"
+    },
+    {
+        "name": "Call Of Ops",
+        "game_url": "https://hfmanor.com/call-of-ops",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100CallOfOps-q76me0h6qmgpj4yejh187kbaw5ljnnl1nzmodqldd4.webp",
+        "game-id": "call-of-ops"
+    },
+    {
+        "name": "Pixel Combat 2",
+        "game_url": "https://hfmanor.com/pixel-combat-2",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100PixelCombatOG-q76mek7sq57qay5qc7ke5xbzd8w95areqpbvgjs3qg.webp",
+        "game-id": "pixel-combat-2"
+    },
+    {
+        "name": "Five Nights At Freddy 1",
+        "game_url": "https://hfmanor.com/five-nights-at-freddy-1",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100FNAF1-q76me8xqg4safmm462ovc06g8mfukximp5i1p88tt4.webp",
+        "game-id": "five-nights-at-freddy-1"
+    },
+    {
+        "name": "Five Nights At Freddy 2",
+        "game_url": "https://hfmanor.com/five-nights-at-freddy-2",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100FNAF2-q76me8xqg4safmm462ovc06g8mfukximp5i1p88tt4.webp",
+        "game-id": "five-nights-at-freddy-2"
+    },
+    {
+        "name": "Funny Shooter 2",
+        "game_url": "https://hfmanor.com/funny-shooter-2",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100FunnyS2-1-qelokbeu01dl7gffgk0r4u1s5nyrtjhyqxusgte9k8.webp",
+        "game-id": "funny-shooter-2"
+    },
+    {
+        "name": "Time Shooter 3",
+        "game_url": "https://hfmanor.com/time-shooter-3",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100Time3-1-qds0hw7ee9nbobt8x5dronxo6l7c3nzjn0ouyk7y7c.webp",
+        "game-id": "time-shooter-3"
+    },
+    {
+        "name": "Paper.io 1",
+        "game_url": "https://hfmanor.com/paper.io-1",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100Paper1-q76mej9yjb6fzc73hp5rlfkirv0vxlnoekodz9thwo.webp",
+        "game-id": "paper.io-1"
+    },
+    {
+        "name": "Hole.io",
+        "game_url": "https://hfmanor.com/hole.io",
+        "game_image_icon": "https://geometryspot.com/wp-content/uploads/elementor/thumbs/100Holeio-q76medmxeayq1ofaemq06gzr7jsonf1adsrh3m1uy0.webp",
+        "game-id": "hole.io"
+    },
+    {
+        "name": "Javascript Snake",
+        "game_url": "https://hfmanor.com/javascript-snake",
+        "game_image_icon": "https://games.mathpapers.org/JavaScript-Snake/snake.jpg",
+        "game-id": "javascript-snake"
+    }
+]
