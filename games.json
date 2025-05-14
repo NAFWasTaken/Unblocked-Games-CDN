@@ -56,13 +56,6 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/moto-X3M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
-	  "name": "Bitlife",
-	  "game_url": "https://hfmanor.com/bitlife",
-	  "game_image_icon": "https://hfmanor.com/image/bitlife",
-	  "game-id": "bitlife",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/bitlife\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
-	},
-	{
 	  "name": "Superhot",
 	  "game_url": "https://hfmanor.com/superhot",
 	  "game_image_icon": "https://hfmanor.com/image/superhot",
@@ -119,12 +112,6 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/madalin-stunt-cars-2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
-	  "name": "Deepest Sword",
-	  "game_url": "https://hfmanor.com/deepest-sword",
-	  "game_image_icon": "https://hfmanor.com/image/deepest-sword",
-	  "game-id": "deepest-sword",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/deepest-sword\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
-	},
 	{
 	  "name": "Soccer Skills",
 	  "game_url": "https://hfmanor.com/soccer-skills",
@@ -152,13 +139,6 @@
 	  "game_image_icon": "https://hfmanor.com/image/slitherio",
 	  "game-id": "slitherio",
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/slitherio\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
-	},
-	{
-	  "name": "Fortnite",
-	  "game_url": "https://hfmanor.com/fortnite",
-	  "game_image_icon": "https://hfmanor.com/image/fortnite",
-	  "game-id": "fortnite",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/fortnite\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	  "name": "Slope 2",
@@ -2693,6 +2673,12 @@
 	  "game_image_icon": "https://hfmanor.com/image/route-digger",
 	  "game-id": "route-digger",
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/route-digger\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
-	}
+	},
+	{
+	  "name": "Interstate Drifter: 1999",
+	  "game_url": "https://www.coolmathgames.com/0-interstate-drifter-1999/play",
+	  "game_image_icon": "https://files.catbox.moe/5ud60a.png",
+	  "game-id": "interstate-1999",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://www.coolmathgames.com/0-interstate-drifter-1999/play\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
   ]
-  
