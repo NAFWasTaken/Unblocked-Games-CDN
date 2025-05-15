@@ -319,7 +319,7 @@
 	  "game_url": "https://nafwastaken.github.io/2048",
 	  "game_image_icon": "https://hfmanor.com/image/2048",
 	  "game-id": "2048",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/crossyroad\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/2048\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	  "name": "Monster Tracks",
@@ -329,25 +329,18 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/monster-tracks\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
-	  "name": "Monkey Mart",
-	  "game_url": "https://hfmanor.com/Monkey Mart",
-	  "game_image_icon": "https://hfmanor.com/image/Monkey Mart",
-	  "game-id": "Monkey Mart",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/Monkey Mart\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
-	},
-	{
-	  "name": "Baldis Basics",
-	  "game_url": "https://hfmanor.com/baldis-basics",
+	  "name": "Baldi's Basics",
+	  "game_url": "https://nafwastaken.github.io/baldisbasics/",
 	  "game_image_icon": "https://hfmanor.com/image/baldis-basics",
 	  "game-id": "baldis-basics",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/baldis-basics\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/baldisbasics/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	  "name": "Worlds Hardest Game 2",
-	  "game_url": "https://hfmanor.com/worlds-hardest-game-2",
+	  "game_url": "https://nafwastaken.github.io/worldshardestgame/",
 	  "game_image_icon": "https://hfmanor.com/image/worlds-hardest-game-2",
 	  "game-id": "worlds-hardest-game-2",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://hfmanor.com/worlds-hardest-game-2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/worldshardestgame/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	  "name": "Krunker",
