@@ -82,5 +82,19 @@
 	  "game_image_icon": "https://files.catbox.moe/rnvm5i.webp",
 	  "game-id": "cut-the-rope",
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/cuttherope/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Tiny Fishing",
+	  "game_url": "https://nafwastaken.github.io/tinyfishing/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tinyfishing/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "tetris",
+	  "game_url": "https://nafwastaken.github.io/tetris/",
+	  "game_image_icon": "https://files.catbox.moe/i3x00e.png",
+	  "game-id": "worlds-hardest-game-2",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tetris/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	}
   ]
