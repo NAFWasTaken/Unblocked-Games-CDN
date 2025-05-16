@@ -35,11 +35,39 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/basketrandom/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+	   "name": "Flappy Bird",
+	  "game_url": "https://nafwastaken.github.io/flappybird/",
+	  "game_image_icon": "https://files.catbox.moe/w9tniz.png",
+	  "game-id": "flappy-bird",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/flappybird/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Pac-Man",
+	  "game_url": "https://nafwastaken.github.io/pacman/",
+	  "game_image_icon": "https://files.catbox.moe/bpafz9.png",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/pacman/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Paper.io",
+	  "game_url": "https://nafwastaken.github.io/paperio/",
+	  "game_image_icon": "https://files.catbox.moe/dcm1q2.png",
+	  "game-id": "paper-io",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/paperio/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
 	  "name": "Crossy Road",
 	  "game_url": "https://nafwastaken.github.io/crossyroad/",
 	  "game_image_icon": "https://files.catbox.moe/i8od4j.png",
 	  "game-id": "crossyroad",
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/crossyroad/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Asteroids",
+	  "game_url": "https://nafwastaken.github.io/asteroids/",
+	  "game_image_icon": "https://files.catbox.moe/1gsmll.png",
+	  "game-id": "crossyroad",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/asteroids/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	  "name": "2048",
