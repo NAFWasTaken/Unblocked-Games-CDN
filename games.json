@@ -56,11 +56,32 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/pacman/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
-	   "name": "Paper.io",
-	  "game_url": "https://nafwastaken.github.io/paperio/",
-	  "game_image_icon": "https://files.catbox.moe/dcm1q2.png",
+	   "name": "One Night at Freddy's (TurboWarp)",
+	  "game_url": "https://nafwastaken.github.io/onaf/",
+	  "game_image_icon": "https://files.catbox.moe/ixuizz.jpg",
+	  "game-id": "onaf",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/onaf/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "FNaF 2 (TurboWarp)",
+	  "game_url": "https://nafwastaken.github.io/fnaf2/",
+	  "game_image_icon": "https://files.catbox.moe/ibtaf8.webp",
 	  "game-id": "paper-io",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/paperio/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/fnaf2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "FNaF 3 (TurboWarp)",
+	  "game_url": "https://nafwastaken.github.io/fnaf3/",
+	  "game_image_icon": "https://files.catbox.moe/wvfeny.png",
+	  "game-id": "paper-io",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/fnaf3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Undertale (TurboWarp)",
+	  "game_url": "https://nafwastaken.github.io/undertale/",
+	  "game_image_icon": "https://files.catbox.moe/oymfyz.jpg",
+	  "game-id": "paper-io",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/undertale/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	  "name": "Crossy Road",
