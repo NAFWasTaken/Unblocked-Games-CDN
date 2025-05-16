@@ -91,6 +91,13 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/baldisbasics/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+	  "name": "Retro Bowl",
+	  "game_url": "https://nafwastaken.github.io/retrobowl/",
+	  "game_image_icon": "https://files.catbox.moe/ll4l9r.webp",
+	  "game-id": "retro-bowl",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/retrobowl/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
 	  "name": "Worlds Hardest Game 2",
 	  "game_url": "https://nafwastaken.github.io/worldshardestgame/",
 	  "game_image_icon": "https://files.catbox.moe/3h5m3a.png",
@@ -114,8 +121,8 @@
 	{
 	  "name": "Slope",
 	  "game_url": "https://nafwastaken.github.io/slope/",
-	  "game_image_icon": "https://files.catbox.moe/sz40n7.jpeg",
-	  "game-id": "worlds-hardest-game-2",
+	  "game_image_icon": "https://files.catbox.moe/4g93zi.png",
+	  "game-id": "slope",
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/slope/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
