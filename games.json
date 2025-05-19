@@ -49,6 +49,20 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/basketrandom/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+	   "name": "Soccer Random",
+	  "game_url": "https://nafwastaken.github.io/soccerrandom/",
+	  "game_image_icon": "https://files.catbox.moe/0gzjsv.png",
+	  "game-id": "doodle-jump",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/basketrandom/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Boxing Random",
+	  "game_url": "https://nafwastaken.github.io/boxingrandom/",
+	  "game_image_icon": "https://files.catbox.moe/37t2qb.jpg",
+	  "game-id": "doodle-jump",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/basketrandom/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
 	   "name": "Drift Boss",
 	  "game_url": "https://nafwastaken.github.io/driftboss/",
 	  "game_image_icon": "https://files.catbox.moe/hweygn.png",
