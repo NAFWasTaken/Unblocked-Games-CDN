@@ -63,6 +63,13 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/boxingrandom/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+	   "name": "SM64",
+	  "game_url": "https://nafwastaken.github.io/sm64/",
+	  "game_image_icon": "https://files.catbox.moe/k7ah2k.webp",
+	  "game-id": "doodle-jump",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/sm64/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
 	   "name": "Drift Boss",
 	  "game_url": "https://nafwastaken.github.io/driftboss/",
 	  "game_image_icon": "https://files.catbox.moe/hweygn.png",
