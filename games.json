@@ -70,6 +70,69 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/pacman/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+	   "name": "Fruit Ninja",
+	  "game_url": "https://nafwastaken.github.io/fruitninja/",
+	  "game_image_icon": "https://files.catbox.moe/byxgph.jpg",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/fruitninja/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Subway Surfers",
+	  "game_url": "https://nafwastaken.github.io/subwaysurfers/",
+	  "game_image_icon": "https://files.catbox.moe/0habuf.jpg",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/subwaysurfers/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Moto X3M",
+	  "game_url": "https://nafwastaken.github.io/motox3m/",
+	  "game_image_icon": "https://files.catbox.moe/jjcfib.jpg",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/motox3m/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Game Inside A Game",
+	  "game_url": "https://nafwastaken.github.io/game-inside/",
+	  "game_image_icon": "https://files.catbox.moe/nwi8sv.png",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/game-inside/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Minecraft 1.18.0",
+	  "game_url": "https://nafwastaken.github.io/minecraft-18/",
+	  "game_image_icon": "https://files.catbox.moe/kzb1g7.webp",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/minecraft-18/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Among Us",
+	  "game_url": "https://nafwastaken.github.io/among-us/",
+	  "game_image_icon": "https://files.catbox.moe/81mtrv.png",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/among-us/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Geodash",
+	  "game_url": "https://nafwastaken.github.io/geodash/",
+	  "game_image_icon": "https://files.catbox.moe/mdhw6u.png",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/geodash/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Portal (Flash Edition)",
+	  "game_url": "https://nafwastaken.github.io/portalflash/",
+	  "game_image_icon": "https://files.catbox.moe/5wz7yz.jpg",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/portalflash/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Worlds Hardest Game 1",
+	  "game_url": "https://nafwastaken.github.io/worlds-hardest-game1/",
+	  "game_image_icon": "https://files.catbox.moe/bpafz9.png",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/pacman/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
 	   "name": "One Night at Freddy's (TurboWarp)",
 	  "game_url": "https://nafwastaken.github.io/onaf/",
 	  "game_image_icon": "https://files.catbox.moe/ixuizz.jpg",
