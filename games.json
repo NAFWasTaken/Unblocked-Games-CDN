@@ -182,25 +182,53 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/worlds-hardest-game1/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
-	   "name": "One Night at Freddy's (TurboWarp)",
-	  "game_url": "https://nafwastaken.github.io/onaf/",
+	   "name": "FNaF 1",
+	  "game_url": "https://irv77.github.io/hd_fnaf/1/",
 	  "game_image_icon": "https://files.catbox.moe/ixuizz.jpg",
 	  "game-id": "onaf",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/onaf/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/1/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
-	   "name": "FNaF 2 (TurboWarp)",
-	  "game_url": "https://nafwastaken.github.io/fnaf2/",
+	   "name": "FNaF 2",
+	  "game_url": "https://irv77.github.io/hd_fnaf/2/",
 	  "game_image_icon": "https://files.catbox.moe/ibtaf8.webp",
 	  "game-id": "paper-io",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/fnaf2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
-	   "name": "FNaF 3 (TurboWarp)",
-	  "game_url": "https://nafwastaken.github.io/fnaf3/",
+	   "name": "FNaF 3",
+	  "game_url": "https://irv77.github.io/hd_fnaf/3/",
 	  "game_image_icon": "https://files.catbox.moe/wvfeny.png",
 	  "game-id": "paper-io",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/fnaf3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "FNaF 4",
+	  "game_url": "https://irv77.github.io/hd_fnaf/4/",
+	  "game_image_icon": "https://files.catbox.moe/s81x03.jpg",
+	  "game-id": "paper-io",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/4/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "FNaF World",
+	  "game_url": "https://irv77.github.io/hd_fnaf/w/",
+	  "game_image_icon": "https://files.catbox.moe/yipncr.webp",
+	  "game-id": "paper-io",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "FNaF Pizzeria Simulator",
+	  "game_url": "https://irv77.github.io/hd_fnaf/ps/",
+	  "game_image_icon": "https://files.catbox.moe/12g108.png",
+	  "game-id": "paper-io",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "UCN",
+	  "game_url": "https://irv77.github.io/hd_fnaf/ucn/",
+	  "game_image_icon": "https://files.catbox.moe/jejlx8.png",
+	  "game-id": "paper-io",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/ucn/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	   "name": "Undertale (TurboWarp)",
