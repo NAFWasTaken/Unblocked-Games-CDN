@@ -119,6 +119,20 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/pacman/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+	   "name": "Superhot",
+	  "game_url": "https://nafwastaken.github.io/superhot/",
+	  "game_image_icon": "https://files.catbox.moe/bsbfs0.jpg",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/superhot/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	   "name": "Polytrack",
+	  "game_url": "https://nafwastaken.github.io/polytrack/",
+	  "game_image_icon": "https://files.catbox.moe/9zka04.png",
+	  "game-id": "pac-man",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/polytrack/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
 	   "name": "Fruit Ninja",
 	  "game_url": "https://nafwastaken.github.io/fruitninja/",
 	  "game_image_icon": "https://files.catbox.moe/byxgph.jpg",
