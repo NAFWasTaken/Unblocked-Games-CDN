@@ -28,6 +28,13 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/ovo/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+	  "name": "OvO Dimensions",
+	  "game_url": "https://nafwastaken.github.io/ovo-dimensions/",
+	  "game_image_icon": "https://files.catbox.moe/9f70c1.png",
+	  "game-id": "ovo",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/ovo-dimensions/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
 	  "name": "Tomb of the Mask",
 	  "game_url": "https://nafwastaken.github.io/tombifthemask/",
 	  "game_image_icon": "https://files.catbox.moe/nefa1r.webp",
@@ -63,6 +70,13 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/boxingrandom/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+  	  "name": "Volley Random",
+  	  "game_url": "https://nafwastaken.github.io/volley-random/",
+  	  "game_image_icon": "leave empty",
+  	  "game-id": "leave empty",
+  	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/volley-random/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+        },
+	{
 	  "name": "Drive Mad",
 	  "game_url": "https://nafwastaken.github.io/drivemad/",
 	  "game_image_icon": "https://files.catbox.moe/txr6ka.jpg",
@@ -91,6 +105,41 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/sm64/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+  	  "name": "Breaking The Bank",
+  	  "game_url": "https://nafwastaken.github.io/breaking-the-bank/",
+  	  "game_image_icon": "https://files.catbox.moe/neguo0.png",
+  	  "game-id": "leave empty",
+  	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/breaking-the-bank/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+  	  "name": "Escaping The Prison",
+  	  "game_url": "https://nafwastaken.github.io/escaping-the-prison/",
+  	  "game_image_icon": "https://files.catbox.moe/imyap1.png",
+  	  "game-id": "leave empty",
+  	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/escaping-the-prison/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+  	  "name": "Stealing The Diamond",
+  	  "game_url": "https://nafwastaken.github.io/stealing-the-diamond/",
+  	  "game_image_icon": "https://files.catbox.moe/hxev06.png",
+  	  "game-id": "leave empty",
+  	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/stealing-the-diamond/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+  	  "name": "Infiltrating The Airship",
+  	  "game_url": "https://nafwastaken.github.io/infiltrating-the-airship/",
+  	  "game_image_icon": "https://files.catbox.moe/r8nlel.png",
+  	  "game-id": "leave empty",
+  	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/infiltrating-the-airship/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+  	  "name": "Fleeing The Complex",
+ 	  "game_url": "https://nafwastaken.github.io/fleeing-the-complex/",
+  	  "game_image_icon": "https://files.catbox.moe/4djlc2.png",
+  	  "game-id": "leave empty",
+  	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/fleeing-the-complex/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
 	   "name": "Drift Boss",
 	  "game_url": "https://nafwastaken.github.io/driftboss/",
 	  "game_image_icon": "https://files.catbox.moe/hweygn.png",
@@ -103,6 +152,62 @@
 	  "game_image_icon": "https://files.catbox.moe/z0qfvo.png",
 	  "game-id": "drift-boss",
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/blumgislime/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+  	"name": "Blumgi Ball",
+  	"game_url": "https://nafwastaken.github.io/blumgi-ball/",
+  	"game_image_icon": "leave empty",
+  	"game-id": "leave empty",
+  	"iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/blumgi-ball/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+  	"name": "Blumgi Bloom",
+  	"game_url": "https://nafwastaken.github.io/blumgi-bloom/",
+  	"game_image_icon": "leave empty",
+  	"game-id": "leave empty",
+  	"iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/blumgi-bloom/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+  	"name": "Blumgi Castle",
+  	"game_url": "https://nafwastaken.github.io/blumgi-castle/",
+  	"game_image_icon": "leave empty",
+  	"game-id": "leave empty",
+  	"iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/blumgi-castle/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+  	"name": "Blumgi Dragon",
+  	"game_url": "https://nafwastaken.github.io/blumgi-dragon/",
+  	"game_image_icon": "leave empty",
+  	"game-id": "leave empty",
+  	"iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/blumgi-dragon/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+ 	 "name": "Blumgi Paintball",
+ 	 "game_url": "https://nafwastaken.github.io/blumgi-paintball/",
+ 	 "game_image_icon": "leave empty",
+ 	 "game-id": "leave empty",
+ 	 "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/blumgi-paintball/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+ 	 "name": "Blumgi Racers",
+ 	 "game_url": "https://nafwastaken.github.io/blumgi-racers/",
+ 	 "game_image_icon": "leave empty",
+ 	 "game-id": "leave empty",
+ 	 "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/blumgi-racers/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+ 	 "name": "Blumgi Rocket",
+ 	 "game_url": "https://nafwastaken.github.io/blumgi-rocket/",
+ 	 "game_image_icon": "leave empty",
+ 	 "game-id": "leave empty",
+  	 "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/blumgi-rocket/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+  	"name": "Blumgi Soccer",
+  	"game_url": "https://nafwastaken.github.io/blumgi-soccer/",
+  	"game_image_icon": "leave empty",
+  	"game-id": "leave empty",
+  	"iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/blumgi-soccer/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	   "name": "Flappy Bird",
@@ -175,11 +280,11 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/among-us/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
-	   "name": "Geodash",
-	  "game_url": "https://nafwastaken.github.io/geodash/",
+	   "name": "Geometry Dash",
+	  "game_url": "https://nafwastaken.github.io//",
 	  "game_image_icon": "https://files.catbox.moe/mdhw6u.png",
 	  "game-id": "pac-man",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/geodash/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/geometry-dash/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	   "name": "Portal (Flash Edition)",
@@ -228,14 +333,14 @@
 	  "game_url": "https://irv77.github.io/hd_fnaf/w/",
 	  "game_image_icon": "https://files.catbox.moe/yipncr.webp",
 	  "game-id": "paper-io",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/w/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	   "name": "FNaF Pizzeria Simulator",
 	  "game_url": "https://irv77.github.io/hd_fnaf/ps/",
 	  "game_image_icon": "https://files.catbox.moe/12g108.png",
 	  "game-id": "paper-io",
-	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://irv77.github.io/hd_fnaf/ps/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	   "name": "UCN",
@@ -308,6 +413,13 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/Breakout/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+	  "name": "Level Devil",
+	  "game_url": "https://nafwastaken.github.io/level-devil/",
+	  "game_image_icon": "https://files.catbox.moe/pm1xuk.png",
+	  "game-id": "slope",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/level-devil/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
 	  "name": "Slope",
 	  "game_url": "https://nafwastaken.github.io/slope/",
 	  "game_image_icon": "https://files.catbox.moe/4g93zi.png",
@@ -329,10 +441,979 @@
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tinyfishing/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
+	  "name": "5b",
+	  "game_url": "https://nafwastaken.github.io/5b/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/5b/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Ages of Conflict",
+	  "game_url": "https://nafwastaken.github.io/ages-of-conflict/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/ages-of-conflict/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Bad Piggies",
+	  "game_url": "https://nafwastaken.github.io/bad-piggies/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/bad-piggies/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Breaking the Bank",
+	  "game_url": "https://nafwastaken.github.io/breaking-the-bank/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/breaking-the-bank/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "BuildNowGG",
+	  "game_url": "https://nafwastaken.github.io/BuildNowGG/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/BuildNowGG/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Zombie Rush",
+	  "game_url": "https://nafwastaken.github.io/zombie-rush/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/BuildNowGG/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Vex 8",
+	  "game_url": "https://nafwastaken.github.io/vex-8/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-8/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Vex 7",
+	  "game_url": "https://nafwastaken.github.io/vex-7/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-7/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Vex 6",
+	  "game_url": "https://nafwastaken.github.io/vex-6/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-6/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Vex 5",
+	  "game_url": "https://nafwastaken.github.io/vex-5/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-5/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Vex 4",
+	  "game_url": "https://nafwastaken.github.io/vex-4/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-4/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Vex 3",
+	  "game_url": "https://nafwastaken.github.io/vex-3/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Unicycle Hero",
+	  "game_url": "https://nafwastaken.github.io/unicycle-hero/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/unicycle-hero/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Unicycle Legend",
+	  "game_url": "https://nafwastaken.github.io/unicycle-legend/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/unicycle-legend/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Turbo-Motor-Racer",
+	  "game_url": "https://nafwastaken.github.io/turbo-motor-racer/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/turbo-motor-racer/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Tunnel Rush 2",
+	  "game_url": "https://nafwastaken.github.io/tunnel-rush-2/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tunnel-rush-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Time Shooter 2",
+	  "game_url": "https://nafwastaken.github.io/time-shooter-2/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+	{
+	  "name": "Angry Birds",
+	  "game_url": "https://nafwastaken.github.io/angry-birds/",
+	  "game_image_icon": "https://files.catbox.moe/g3u70k.png",
+	  "game-id": "tiny-fishing",
+	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/angry-birds/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	},
+{
+  "name": "Animal Arena",
+  "game_url": "https://nafwastaken.github.io/animal-arena/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/animal-arena/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Animals Volleyball",
+  "game_url": "https://nafwastaken.github.io/animals-volleyball/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/animals-volleyball/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Armed Forces Io",
+  "game_url": "https://nafwastaken.github.io/armed-forces-io/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/armed-forces-io/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Bacon May Die",
+  "game_url": "https://nafwastaken.github.io/bacon-may-die/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/bacon-may-die/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Ball Dodge",
+  "game_url": "https://nafwastaken.github.io/ball-dodge/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/ball-dodge/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Bank Robbery 2",
+  "game_url": "https://nafwastaken.github.io/bank-robbery-2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/bank-robbery-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Bank Robbery 3",
+  "game_url": "https://nafwastaken.github.io/bank-robbery-3/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/bank-robbery-3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Bank Robbery",
+  "game_url": "https://nafwastaken.github.io/bank-robbery/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/bank-robbery/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Battle Wheels",
+  "game_url": "https://nafwastaken.github.io/battle-wheels/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/battle-wheels/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Buenos Aires",
+  "game_url": "https://nafwastaken.github.io/buenos-aires/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/buenos-aires/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Bullet Bros",
+  "game_url": "https://nafwastaken.github.io/bullet-bros/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/bullet-bros/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Candy Crush",
+  "game_url": "https://nafwastaken.github.io/candy-crush/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/candy-crush/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Catpad",
+  "game_url": "https://nafwastaken.github.io/catpad/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/catpad/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Chicago",
+  "game_url": "https://nafwastaken.github.io/chicago/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/chicago/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Chicken Merge 2",
+  "game_url": "https://nafwastaken.github.io/chicken-merge-2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/chicken-merge-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Chicken Merge",
+  "game_url": "https://nafwastaken.github.io/chicken-merge/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/chicken-merge/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Choppy Orc",
+  "game_url": "https://nafwastaken.github.io/choppy-orc/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/choppy-orc/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Cluster Rush",
+  "game_url": "https://nafwastaken.github.io/cluster-rush/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/cluster-rush/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Core Ball",
+  "game_url": "https://nafwastaken.github.io/core-ball/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/core-ball/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Cow Bay",
+  "game_url": "https://nafwastaken.github.io/cow-bay/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/cow-bay/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Crazy Bikes",
+  "game_url": "https://nafwastaken.github.io/crazy-bikes/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/crazy-bikes/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Crazy Cars",
+  "game_url": "https://nafwastaken.github.io/crazy-cars/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/crazy-cars/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "CSGO Clicker",
+  "game_url": "https://nafwastaken.github.io/csgo-clicker/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/csgo-clicker/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Dadish 2",
+  "game_url": "https://nafwastaken.github.io/dadish-2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/dadish-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Dadish 3",
+  "game_url": "https://nafwastaken.github.io/dadish-3/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/dadish-3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Dadish 3d",
+  "game_url": "https://nafwastaken.github.io/dadish-3d/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/dadish-3d/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Dadish",
+  "game_url": "https://nafwastaken.github.io/dadish/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/dadish/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Day Of Meat Castle",
+  "game_url": "https://nafwastaken.github.io/day-of-meat-castle/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/day-of-meat-castle/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Day Of Meat Radiation",
+  "game_url": "https://nafwastaken.github.io/day-of-meat-radiation/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/day-of-meat-radiation/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+  "name": "Double Panda",
+  "game_url": "https://nafwastaken.github.io/double-panda/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/double-panda/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Dreadhead Parkour",
+  "game_url": "https://nafwastaken.github.io/dreadhead-parkour/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/dreadhead-parkour/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Ducklings Io",
+  "game_url": "https://nafwastaken.github.io/ducklings-io/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/ducklings-io/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Dune",
+  "game_url": "https://nafwastaken.github.io/dune/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/dune/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Eclicker",
+  "game_url": "https://nafwastaken.github.io/eclicker/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/eclicker/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Economical 2",
+  "game_url": "https://nafwastaken.github.io/economical-2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/economical-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Economical",
+  "game_url": "https://nafwastaken.github.io/economical/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/economical/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Emulatorjs",
+  "game_url": "https://nafwastaken.github.io/emulatorjs/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/emulatorjs/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Fantasy Fest",
+  "game_url": "https://nafwastaken.github.io/fantasy-fest/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/fantasy-fest/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Flip Bros",
+  "game_url": "https://nafwastaken.github.io/flip-bros/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/flip-bros/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Four Colors",
+  "game_url": "https://nafwastaken.github.io/four-colors/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/four-colors/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Funny Shooter 2",
+  "game_url": "https://nafwastaken.github.io/funny-shooter-2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/funny-shooter-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Gladihoppers",
+  "game_url": "https://nafwastaken.github.io/gladihoppers/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/gladihoppers/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Gobattle",
+  "game_url": "https://nafwastaken.github.io/gobattle/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/gobattle/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Yesterday",
+  "game_url": "https://nafwastaken.github.io/yesterday/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/yesterday/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Gold Digger Fr Vr",
+  "game_url": "https://nafwastaken.github.io/gold-digger-fr-vr/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/gold-digger-fr-vr/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Goober World",
+  "game_url": "https://nafwastaken.github.io/goober-world/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/goober-world/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Greece Love Odyssey",
+  "game_url": "https://nafwastaken.github.io/greece-love-odyssey/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/greece-love-odyssey/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Hawaii",
+  "game_url": "https://nafwastaken.github.io/hawaii/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/hawaii/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Idle Breakout",
+  "game_url": "https://nafwastaken.github.io/idle-breakout/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/idle-breakout/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Idle Farming Business",
+  "game_url": "https://nafwastaken.github.io/idle-farming-business/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/idle-farming-business/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Idle Gang",
+  "game_url": "https://nafwastaken.github.io/idle-gang/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/idle-gang/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Idle Mining Empire",
+  "game_url": "https://nafwastaken.github.io/idle-mining-empire/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/idle-mining-empire/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Idle Startup Tycoon",
+  "game_url": "https://nafwastaken.github.io/idle-startup-tycoon/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/idle-startup-tycoon/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Iron Snout",
+  "game_url": "https://nafwastaken.github.io/iron-snout/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/iron-snout/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Jacksmith",
+  "game_url": "https://nafwastaken.github.io/jacksmith/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/jacksmith/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Jump Only",
+  "game_url": "https://nafwastaken.github.io/jump-only/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/jump-only/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Just Fall",
+  "game_url": "https://nafwastaken.github.io/justfalllol/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/justfalllol/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Karlson",
+  "game_url": "https://nafwastaken.github.io/karlson/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/karlson/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Ks 2 Teams",
+  "game_url": "https://nafwastaken.github.io/ks-2-teams/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/ks-2-teams/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Master Checkers",
+  "game_url": "https://nafwastaken.github.io/master-checkers/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/master-checkers/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Master Chess",
+  "game_url": "https://nafwastaken.github.io/master-chess/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/master-chess/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Merge The Numbers",
+  "game_url": "https://nafwastaken.github.io/merge-the-numbers/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/merge-the-numbers/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Merge Tycoon",
+  "game_url": "https://nafwastaken.github.io/merge-tycoon/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/merge-tycoon/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Mine Line",
+  "game_url": "https://nafwastaken.github.io/mine-line/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/mine-line/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Monkey Mart",
+  "game_url": "https://nafwastaken.github.io/monkey-mart/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/monkey-mart/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Moto X3M",
+  "game_url": "https://nafwastaken.github.io/moto-x3m/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/moto-x3m/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Moto X3M Pool",
+  "game_url": "https://nafwastaken.github.io/motox3m-pool/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/motox3m-pool/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Moto X3M Spooky",
+  "game_url": "https://nafwastaken.github.io/motox3m-spooky/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/motox3m-spooky/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Moto X3M Winter",
+  "game_url": "https://nafwastaken.github.io/motox3m-winter/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/motox3m-winter/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Moto X3M 2",
+  "game_url": "https://nafwastaken.github.io/motox3m2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/motox3m2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "One Chance",
+  "game_url": "https://nafwastaken.github.io/one-chance/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/one-chance/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Physibox",
+  "game_url": "https://nafwastaken.github.io/physibox/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/physibox/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Poly Track",
+  "game_url": "https://nafwastaken.github.io/poly-track/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/poly-track/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Push Your Luck",
+  "game_url": "https://nafwastaken.github.io/push-your-luck/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/push-your-luck/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Race Survival Arena King",
+  "game_url": "https://nafwastaken.github.io/race-survival-arena-king/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/race-survival-arena-king/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Retro Highway",
+  "game_url": "https://nafwastaken.github.io/retro-highway/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/retro-highway/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Rocket Soccer Derby",
+  "game_url": "https://nafwastaken.github.io/rocket-soccer-derby/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/rocket-soccer-derby/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Run 3",
+  "game_url": "https://nafwastaken.github.io/run-3/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/run-3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Sausage Flip",
+  "game_url": "https://nafwastaken.github.io/sausage-flip/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/sausage-flip/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Skiddy Taxi",
+  "game_url": "https://nafwastaken.github.io/skiddy-taxi/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/skiddy-taxi/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Slow Roads",
+  "game_url": "https://nafwastaken.github.io/slow-roads/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/slow-roads/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Snow Rider 3d",
+  "game_url": "https://nafwastaken.github.io/snow-rider-3d/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/snow-rider-3d/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Soccer Skills Champions League",
+  "game_url": "https://nafwastaken.github.io/soccer-skills-champions-league/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/soccer-skills-champions-league/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Soccer Skills Euro Cup",
+  "game_url": "https://nafwastaken.github.io/soccer-skills-euro-cup/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/soccer-skills-euro-cup/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Soccer Skills World Cup",
+  "game_url": "https://nafwastaken.github.io/soccer-skills-world-cup/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/soccer-skills-world-cup/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Space Major Miner",
+  "game_url": "https://nafwastaken.github.io/space-major-miner/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/space-major-miner/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Space Thing",
+  "game_url": "https://nafwastaken.github.io/space-thing/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/space-thing/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Space Wars Battleground",
+  "game_url": "https://nafwastaken.github.io/space-wars-battleground/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/space-wars-battleground/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Stack",
+  "game_url": "https://nafwastaken.github.io/stack/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/stack/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Stickman Bike",
+  "game_url": "https://nafwastaken.github.io/stickman-bike/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/stickman-bike/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Stickman Hook Halloween",
+  "game_url": "https://nafwastaken.github.io/stickman-hook-halloween/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/stickman-hook-halloween/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Super Fowlst 2",
+  "game_url": "https://nafwastaken.github.io/super-fowlst-2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/super-fowlst-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Super Fowlst",
+  "game_url": "https://nafwastaken.github.io/super-fowlst/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/super-fowlst/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+
+{
+  "name": "Super Liquid Soccer",
+  "game_url": "https://nafwastaken.github.io/super-liquid-soccer/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/super-liquid-soccer/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Super Tunnel Rush",
+  "game_url": "https://nafwastaken.github.io/super-tunnel-rush/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/super-tunnel-rush/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Swingo",
+  "game_url": "https://nafwastaken.github.io/swingo/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/swingo/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Table Tennis World Tour",
+  "game_url": "https://nafwastaken.github.io/table-tennis-world-tour/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/table-tennis-world-tour/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Tag 2",
+  "game_url": "https://nafwastaken.github.io/tag-2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tag-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Tag",
+  "game_url": "https://nafwastaken.github.io/tag/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tag/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Tanuki Sunset",
+  "game_url": "https://nafwastaken.github.io/tanuki-sunset/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tanuki-sunset/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Tightrope Theatre",
+  "game_url": "https://nafwastaken.github.io/tightrope-theatre/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tightrope-theatre/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Time Shooter 2",
+  "game_url": "https://nafwastaken.github.io/time-shooter-2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/time-shooter-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Time Shooter 3",
+  "game_url": "https://nafwastaken.github.io/time-shooter-3/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/time-shooter-3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Tokyo",
+  "game_url": "https://nafwastaken.github.io/tokyo/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tokyo/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Tower Defense Mingling",
+  "game_url": "https://nafwastaken.github.io/tower-defense-mingling/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tower-defense-mingling/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Tunnel Rush 2",
+  "game_url": "https://nafwastaken.github.io/tunnel-rush-2/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tunnel-rush-2/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Turbo Moto Racer",
+  "game_url": "https://nafwastaken.github.io/turbo-moto-racer/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/turbo-moto-racer/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Underwater",
+  "game_url": "https://nafwastaken.github.io/underwater/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/underwater/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Unicycle Hero",
+  "game_url": "https://nafwastaken.github.io/unicycle-hero/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/unicycle-hero/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Unicycle Legend",
+  "game_url": "https://nafwastaken.github.io/unicycle-legend/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/unicycle-legend/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Vex 3",
+  "game_url": "https://nafwastaken.github.io/vex-3/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-3/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Vex 4",
+  "game_url": "https://nafwastaken.github.io/vex-4/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-4/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Vex 5",
+  "game_url": "https://nafwastaken.github.io/vex-5/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-5/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Vex 6",
+  "game_url": "https://nafwastaken.github.io/vex-6/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-6/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Vex 7",
+  "game_url": "https://nafwastaken.github.io/vex-7/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-7/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Vex 8",
+  "game_url": "https://nafwastaken.github.io/vex-8/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-8/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Vex X3M",
+  "game_url": "https://nafwastaken.github.io/vex-x3m/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/vex-x3m/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+{
+  "name": "Zombie Rush",
+  "game_url": "https://nafwastaken.github.io/zombie-rush/",
+  "game_image_icon": "leave empty",
+  "game-id": "leave empty",
+  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/zombie-rush/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+},
+	{
 	  "name": "Tetris",
 	  "game_url": "https://nafwastaken.github.io/tetris/",
 	  "game_image_icon": "https://files.catbox.moe/zkokmt.png",
 	  "game-id": "worlds-hardest-game-2",
 	  "iframe": " <iframe width=\"1366\" height=\"768\" src=\"https://nafwastaken.github.io/tetris/\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	}
-  ]
+]
